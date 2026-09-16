@@ -1,0 +1,383 @@
+{
+  "visited": 1228,
+  "errors": [
+    {
+      "path": "/advt/",
+      "status": 404
+    },
+    {
+      "path": "/articles/",
+      "status": 500
+    },
+    {
+      "path": "/articles/biznes-sovety/",
+      "status": 500
+    },
+    {
+      "path": "/articles/elektronnaya-kommertsiya/",
+      "status": 500
+    },
+    {
+      "path": "/articles/povyshenie-prodazh/",
+      "status": 500
+    },
+    {
+      "path": "/articles/testovyy-razdel/",
+      "status": 500
+    },
+    {
+      "path": "/blog/obzory-tovarov/",
+      "status": 404
+    },
+    {
+      "path": "/blog/obzory-tovarov/obzor-novoy-kabiny-dlya-dusha-ili-zachem-nuzhen-gidromassazh/",
+      "status": 404
+    },
+    {
+      "path": "/blog/sovety-pokupatelyam/",
+      "status": 404
+    },
+    {
+      "path": "/blog/sovety-pokupatelyam/divan-ili-krovat-chto-postavit-v-spalnyu/",
+      "status": 404
+    },
+    {
+      "path": "/blog/sovety-pokupatelyam/kak-nayti-idealnyy-matras/",
+      "status": 404
+    },
+    {
+      "path": "/blog/sovety-pokupatelyam/kak-ukhazhivat-za-poliesterom-chtoby-sokhranit-tsvet/",
+      "status": 404
+    },
+    {
+      "path": "/blog/sovety-pokupatelyam/pochemu-luchshe-rasplachivatsya-beznalichnym-raschetom/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/aleksey-bobrynin/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/andrey-voevodin/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/anna-mayer/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/arkadiy-lyubimov/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/arnold-tolstykh/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/evgeniy-solntsev/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/mark-devinyalov-/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/nikolay-slavnyy/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/petr-dichko/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/vitaliy-shchedry/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/vladimir-gerasimchuk/",
+      "status": 404
+    },
+    {
+      "path": "/company/staff/vladimir-senishin/",
+      "status": 404
+    },
+    {
+      "path": "/company/vacancy/marketolog-targetolog/",
+      "status": 404
+    },
+    {
+      "path": "/company/vacancy/menedzher-po-reklame/",
+      "status": 404
+    },
+    {
+      "path": "/company/vacancy/menedzher-proektov/",
+      "status": 404
+    },
+    {
+      "path": "/company/vacancy/razrabotchik-mobilnykh-prilozheniy-dlya-android/",
+      "status": 404
+    },
+    {
+      "path": "/company/vacancy/spetsialist-po-kontekstnoy-reklame/",
+      "status": 404
+    },
+    {
+      "path": "/company/vacancy/testirovshchik-proektov/",
+      "status": 404
+    },
+    {
+      "path": "/form/",
+      "status": 404
+    },
+    {
+      "path": "/include/licenses_detail",
+      "status": 404
+    },
+    {
+      "path": "/include/politika-ispolzovaniya-faylov-cookies",
+      "status": 404
+    },
+    {
+      "path": "/include/politika-obrabotki-personalnykh-dannykh",
+      "status": 404
+    },
+    {
+      "path": "/info/elements/",
+      "status": 500
+    },
+    {
+      "path": "/news/",
+      "status": 500
+    },
+    {
+      "path": "/product/",
+      "status": 500
+    },
+    {
+      "path": "/product/1s-bitriks-upravlenie-saytom/",
+      "status": 500
+    },
+    {
+      "path": "/product/1s-bitriks-upravlenie-saytom/1S-Bitriks-Malyj-biznes/",
+      "status": 500
+    },
+    {
+      "path": "/product/1s-bitriks-upravlenie-saytom/1s-bitriks-biznes/",
+      "status": 500
+    },
+    {
+      "path": "/product/1s-bitriks-upravlenie-saytom/1s-bitriks-ekspert/",
+      "status": 500
+    },
+    {
+      "path": "/product/1s-bitriks-upravlenie-saytom/standart/",
+      "status": 500
+    },
+    {
+      "path": "/product/crm-sistemy/",
+      "status": 500
+    },
+    {
+      "path": "/product/crm-sistemy/bitriks24/",
+      "status": 500
+    },
+    {
+      "path": "/product/crm-sistemy/flowlu/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/internet-magaziny/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/internet-magaziny/aspro-internet-magazin/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/internet-magaziny/aspro-krutoyshop/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/internet-magaziny/aspro-market/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/internet-magaziny/aspro-optimus/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/korporativnye-sayty/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/korporativnye-sayty/aspro-korporativnyj-sajt-sovremennoj-kompanii/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/korporativnye-sayty/aspro-kurort/",
+      "status": 500
+    },
+    {
+      "path": "/product/gotovye-resheniya/korporativnye-sayty/aspro-stroyka/",
+      "status": 500
+    },
+    {
+      "path": "/product/khosting/",
+      "status": 500
+    },
+    {
+      "path": "/product/khosting/reddock-virtualnyy-khosting/",
+      "status": 500
+    },
+    {
+      "path": "/product/khosting/virtualnye-servera-vps/",
+      "status": 500
+    },
+    {
+      "path": "/projects/bazovoe-seo/",
+      "status": 404
+    },
+    {
+      "path": "/projects/bazovoe-seo/internet-magazin-priborov-ucheta-tepla-i-vody/",
+      "status": 404
+    },
+    {
+      "path": "/projects/internet-magaziny/",
+      "status": 404
+    },
+    {
+      "path": "/projects/internet-magaziny/internet-magazin-bigwall/",
+      "status": 404
+    },
+    {
+      "path": "/projects/kontekstnaya-reklama/",
+      "status": 404
+    },
+    {
+      "path": "/projects/kontekstnaya-reklama/uvelichili-dokhod-internet-magazina-dverey-v-4-raza/",
+      "status": 404
+    },
+    {
+      "path": "/projects/korporativnye-sayty/",
+      "status": 404
+    },
+    {
+      "path": "/projects/korporativnye-sayty/korporativnyy-sayt-traditsionnoy-meditsiny/",
+      "status": 404
+    },
+    {
+      "path": "/projects/mobilnye-prilozheniya/",
+      "status": 404
+    },
+    {
+      "path": "/projects/mobilnye-prilozheniya/servis-dostavki-fermerskoy-edy-na-dom/",
+      "status": 404
+    },
+    {
+      "path": "/projects/sotsialnye-seti/",
+      "status": 404
+    },
+    {
+      "path": "/projects/sotsialnye-seti/prodvizhenie-uslug-po-dizaynu-intererov/",
+      "status": 404
+    },
+    {
+      "path": "/projects/sotsialnye-seti/prodvizhenie-yuridicheskoy-kompanii/",
+      "status": 404
+    },
+    {
+      "path": "/projects/sotsialnye-seti/razvitie-servisa-taksi/",
+      "status": 404
+    },
+    {
+      "path": "/services/povyshaem-effektivnost/",
+      "status": 404
+    },
+    {
+      "path": "/services/povyshaem-effektivnost/vnedrenie-crm/",
+      "status": 404
+    },
+    {
+      "path": "/services/povyshaem-effektivnost/vnedrenie/",
+      "status": 404
+    },
+    {
+      "path": "/services/prodvigaem/",
+      "status": 404
+    },
+    {
+      "path": "/services/prodvigaem/bazovoe-seo/",
+      "status": 404
+    },
+    {
+      "path": "/services/prodvigaem/kontekstnaya-reklama/",
+      "status": 404
+    },
+    {
+      "path": "/services/prodvigaem/smm-i-partizanskiy-marketing/",
+      "status": 404
+    },
+    {
+      "path": "/services/razrabatyvaem/",
+      "status": 404
+    },
+    {
+      "path": "/services/razrabatyvaem/internet-magaziny/",
+      "status": 404
+    },
+    {
+      "path": "/services/razrabatyvaem/korporativnye-sayty/",
+      "status": 404
+    },
+    {
+      "path": "/services/razrabatyvaem/mobilnye-prilozheniya/",
+      "status": 404
+    },
+    {
+      "path": "/services/testirovanie/",
+      "status": 404
+    },
+    {
+      "path": "/services/testirovanie/nagruzochnoe-testirovanie/",
+      "status": 404
+    },
+    {
+      "path": "/services/testirovanie/testirovanie-web-prilozheniy/",
+      "status": 404
+    },
+    {
+      "path": "/sharebasket/",
+      "status": 404
+    },
+    {
+      "path": "/vk.com",
+      "status": 404
+    },
+    {
+      "path": "/ww",
+      "status": 404
+    },
+    {
+      "path": "/www",
+      "status": 404
+    },
+    {
+      "path": "/www.facebook.com",
+      "status": 404
+    },
+    {
+      "path": "/blog/stati/",
+      "status": 403
+    }
+  ],
+  "remaining": [
+    "/landings/rasprodazha-tovarov-dlya-sporta/?PAGEN_2=10",
+    "/landings/rasprodazha-tovarov-dlya-sporta/?PAGEN_2=11",
+    "/landings/rasprodazha-tovarov-dlya-sporta/?PAGEN_2=26",
+    "/landings/rasprodazha-tovarov-dlya-sporta/?PAGEN_2=27"
+  ]
+}

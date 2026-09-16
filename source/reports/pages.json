@@ -1,0 +1,3354 @@
+{
+  "/": {
+    "title": "Сувениры с характером",
+    "file": "index.html"
+  },
+  "/catalog/": {
+    "title": "Вещи с характером",
+    "file": "catalog/index.html"
+  },
+  "/catalog/bulavochki/": {
+    "title": "Булавочки от порчи",
+    "file": "catalog/bulavochki/index.html"
+  },
+  "/catalog/brelki/": {
+    "title": "Брелки",
+    "file": "catalog/brelki/index.html"
+  },
+  "/catalog/imennye_brelki/": {
+    "title": "Именные брелки",
+    "file": "catalog/imennye_brelki/index.html"
+  },
+  "/catalog/imennye_monety/": {
+    "title": "Именные монеты",
+    "file": "catalog/imennye_monety/index.html"
+  },
+  "/catalog/izdeliya_iz_fanery/": {
+    "title": "Изделия из фанеры для детей",
+    "file": "catalog/izdeliya_iz_fanery/index.html"
+  },
+  "/catalog/kolokolchiki/": {
+    "title": "Колокольчики сувенирные",
+    "file": "catalog/kolokolchiki/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/": {
+    "title": "Кошельковые обереги",
+    "file": "catalog/koshelkovye_oberegi/index.html"
+  },
+  "/catalog/runy/": {
+    "title": "Руны",
+    "file": "catalog/runy/index.html"
+  },
+  "/catalog/krasnaya_nit/": {
+    "title": "Красная нить",
+    "file": "catalog/krasnaya_nit/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/": {
+    "title": "Сувенирные монеты литые",
+    "file": "catalog/suvenirnye_monety_lite/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/": {
+    "title": "Сувенирные монеты штампованные",
+    "file": "catalog/suvenirnye_monety_shtampovanny/index.html"
+  },
+  "/catalog/monetnye_zagotovki/": {
+    "title": "Монетные заготовки",
+    "file": "catalog/monetnye_zagotovki/index.html"
+  },
+  "/catalog/obereg/": {
+    "title": "Обереги",
+    "file": "catalog/obereg/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/": {
+    "title": "Оборудование для торговли",
+    "file": "catalog/oborudovanie_dlya_torgovli/index.html"
+  },
+  "/catalog/brelki/1150/": {
+    "title": "Брелок СИМВОЛ 2020",
+    "file": "catalog/brelki/1150/index.html"
+  },
+  "/catalog/brelki/1362/": {
+    "title": "Брелок \"Счастливый рубль\"",
+    "file": "catalog/brelki/1362/index.html"
+  },
+  "/catalog/brelki/1363/": {
+    "title": "Брелок \"Джокер\"",
+    "file": "catalog/brelki/1363/index.html"
+  },
+  "/catalog/brelki/1364/": {
+    "title": "Брелок \"Пиковая дама\"",
+    "file": "catalog/brelki/1364/index.html"
+  },
+  "/catalog/brelki/1365/": {
+    "title": "Брелок \"Король\"",
+    "file": "catalog/brelki/1365/index.html"
+  },
+  "/catalog/brelki/1366/": {
+    "title": "Брелок \"Туз\"",
+    "file": "catalog/brelki/1366/index.html"
+  },
+  "/catalog/brelki/1367/": {
+    "title": "Брелок «Мышь на подкове»",
+    "file": "catalog/brelki/1367/index.html"
+  },
+  "/catalog/brelki/1368/": {
+    "title": "Брелок «Подкова»",
+    "file": "catalog/brelki/1368/index.html"
+  },
+  "/catalog/brelki/1369/": {
+    "title": "Брелок «Клевер»",
+    "file": "catalog/brelki/1369/index.html"
+  },
+  "/catalog/brelki/1370/": {
+    "title": "Брелок «Якорь»",
+    "file": "catalog/brelki/1370/index.html"
+  },
+  "/catalog/brelki/1371/": {
+    "title": "Брелок «Ложка-рубль»",
+    "file": "catalog/brelki/1371/index.html"
+  },
+  "/catalog/brelki/1372/": {
+    "title": "Брелок «Ложка-доллар»",
+    "file": "catalog/brelki/1372/index.html"
+  },
+  "/catalog/brelki/1373/": {
+    "title": "Брелок «Ложка-евро»",
+    "file": "catalog/brelki/1373/index.html"
+  },
+  "/catalog/brelki/1374/": {
+    "title": "Брелок «Везучая трешка»",
+    "file": "catalog/brelki/1374/index.html"
+  },
+  "/catalog/brelki/1375/": {
+    "title": "Брелок «Счастливый пятак»",
+    "file": "catalog/brelki/1375/index.html"
+  },
+  "/catalog/brelki/1376/": {
+    "title": "Брелок «Счастливый рубль»",
+    "file": "catalog/brelki/1376/index.html"
+  },
+  "/catalog/brelki/1377/": {
+    "title": "Брелок «Счастливый пятак»",
+    "file": "catalog/brelki/1377/index.html"
+  },
+  "/catalog/brelki/1378/": {
+    "title": "Брелок «Фартовый рубль»",
+    "file": "catalog/brelki/1378/index.html"
+  },
+  "/catalog/brelki/1379/": {
+    "title": "Брелок «3 стабильных рубля»",
+    "file": "catalog/brelki/1379/index.html"
+  },
+  "/catalog/brelki/1380/": {
+    "title": "Брелок «7 счастливых рублей»",
+    "file": "catalog/brelki/1380/index.html"
+  },
+  "/catalog/brelki/1381/": {
+    "title": "Брелок «Счастливая монета»",
+    "file": "catalog/brelki/1381/index.html"
+  },
+  "/catalog/brelki/1382/": {
+    "title": "Брелок «Счастливая монета 777»",
+    "file": "catalog/brelki/1382/index.html"
+  },
+  "/catalog/brelki/1383/": {
+    "title": "Брелок «Неразменный пятак»",
+    "file": "catalog/brelki/1383/index.html"
+  },
+  "/catalog/brelki/1384/": {
+    "title": "Брелок «Антикризисный червонец»",
+    "file": "catalog/brelki/1384/index.html"
+  },
+  "/catalog/brelki/1385/": {
+    "title": "Брелок «Удача»",
+    "file": "catalog/brelki/1385/index.html"
+  },
+  "/catalog/brelki/1386/": {
+    "title": "Брелок «Повезет»",
+    "file": "catalog/brelki/1386/index.html"
+  },
+  "/catalog/brelki/1387/": {
+    "title": "Брелок «1 миллион рублей»",
+    "file": "catalog/brelki/1387/index.html"
+  },
+  "/catalog/brelki/1388/": {
+    "title": "Брелок «1 миллион долларов»",
+    "file": "catalog/brelki/1388/index.html"
+  },
+  "/catalog/brelki/1389/": {
+    "title": "Брелок «1 ФИГ»",
+    "file": "catalog/brelki/1389/index.html"
+  },
+  "/catalog/brelki/1390/": {
+    "title": "Брелок «SEX-ОБЛОМ»",
+    "file": "catalog/brelki/1390/index.html"
+  },
+  "/catalog/brelki/1391/": {
+    "title": "Брелок \"Самоизоляция\"",
+    "file": "catalog/brelki/1391/index.html"
+  },
+  "/catalog/brelki/1963/": {
+    "title": "Брелок «Капелька счастья»",
+    "file": "catalog/brelki/1963/index.html"
+  },
+  "/catalog/bulavochki/1173/": {
+    "title": "Булавочка на счастье (мышка малая)",
+    "file": "catalog/bulavochki/1173/index.html"
+  },
+  "/catalog/bulavochki/1302/": {
+    "title": "Булавочка от сглаза (мышка)",
+    "file": "catalog/bulavochki/1302/index.html"
+  },
+  "/catalog/bulavochki/1303/": {
+    "title": "Булавочка от сглаза (лягушка)",
+    "file": "catalog/bulavochki/1303/index.html"
+  },
+  "/catalog/bulavochki/1304/": {
+    "title": "Булавочка от сглаза (мышка малая)",
+    "file": "catalog/bulavochki/1304/index.html"
+  },
+  "/catalog/bulavochki/1305/": {
+    "title": "Булавочка от сглаза (бабочка)",
+    "file": "catalog/bulavochki/1305/index.html"
+  },
+  "/catalog/bulavochki/1306/": {
+    "title": "Булавочка от сглаза (рыбка)",
+    "file": "catalog/bulavochki/1306/index.html"
+  },
+  "/catalog/bulavochki/1307/": {
+    "title": "Булавочка от порчи (мышка)",
+    "file": "catalog/bulavochki/1307/index.html"
+  },
+  "/catalog/bulavochki/1308/": {
+    "title": "Булавочка от порчи (лягушка)",
+    "file": "catalog/bulavochki/1308/index.html"
+  },
+  "/catalog/bulavochki/1309/": {
+    "title": "Булавочка от порчи (мышка малая)",
+    "file": "catalog/bulavochki/1309/index.html"
+  },
+  "/catalog/bulavochki/1310/": {
+    "title": "Булавочка от порчи (бабочка)",
+    "file": "catalog/bulavochki/1310/index.html"
+  },
+  "/catalog/bulavochki/1311/": {
+    "title": "Булавочка от порчи (рыбка)",
+    "file": "catalog/bulavochki/1311/index.html"
+  },
+  "/catalog/bulavochki/1312/": {
+    "title": "Булавочка от зависти (мышка)",
+    "file": "catalog/bulavochki/1312/index.html"
+  },
+  "/catalog/bulavochki/1313/": {
+    "title": "Булавочка от зависти (лягушка)",
+    "file": "catalog/bulavochki/1313/index.html"
+  },
+  "/catalog/bulavochki/1314/": {
+    "title": "Булавочка от зависти (мышка малая)",
+    "file": "catalog/bulavochki/1314/index.html"
+  },
+  "/catalog/bulavochki/1316/": {
+    "title": "Булавочка от зависти (рыбка)",
+    "file": "catalog/bulavochki/1316/index.html"
+  },
+  "/catalog/bulavochki/1317/": {
+    "title": "Булавочка на счастье (мышка)",
+    "file": "catalog/bulavochki/1317/index.html"
+  },
+  "/catalog/bulavochki/1318/": {
+    "title": "Булавочка на счастье (лягушка)",
+    "file": "catalog/bulavochki/1318/index.html"
+  },
+  "/catalog/bulavochki/1319/": {
+    "title": "Булавочка на счастье (рыбка)",
+    "file": "catalog/bulavochki/1319/index.html"
+  },
+  "/catalog/bulavochki/1320/": {
+    "title": "Булавочка на удачу (мышка)",
+    "file": "catalog/bulavochki/1320/index.html"
+  },
+  "/catalog/bulavochki/1321/": {
+    "title": "Булавочка на удачу (лягушка)",
+    "file": "catalog/bulavochki/1321/index.html"
+  },
+  "/catalog/bulavochki/1322/": {
+    "title": "Булавочка на удачу (мышка малая)",
+    "file": "catalog/bulavochki/1322/index.html"
+  },
+  "/catalog/bulavochki/1323/": {
+    "title": "Булавочка на удачу (бабочка)",
+    "file": "catalog/bulavochki/1323/index.html"
+  },
+  "/catalog/bulavochki/1324/": {
+    "title": "Булавочка на удачу (рыбка)",
+    "file": "catalog/bulavochki/1324/index.html"
+  },
+  "/catalog/bulavochki/1962/": {
+    "title": "Булавочка от зависти (с бабочкой)",
+    "file": "catalog/bulavochki/1962/index.html"
+  },
+  "/catalog/bulavochki/931/": {
+    "title": "Булавочка на счастье (бабочка)",
+    "file": "catalog/bulavochki/931/index.html"
+  },
+  "/catalog/imennye_brelki/1151/": {
+    "title": "Именной брелок Александр",
+    "file": "catalog/imennye_brelki/1151/index.html"
+  },
+  "/catalog/imennye_brelki/1174/": {
+    "title": "Именной брелок Анатолий",
+    "file": "catalog/imennye_brelki/1174/index.html"
+  },
+  "/catalog/imennye_brelki/1549/": {
+    "title": "Именной брелок Алексей",
+    "file": "catalog/imennye_brelki/1549/index.html"
+  },
+  "/catalog/imennye_brelki/1550/": {
+    "title": "Именной брелок Андрей",
+    "file": "catalog/imennye_brelki/1550/index.html"
+  },
+  "/catalog/imennye_brelki/1551/": {
+    "title": "Именной брелок Артем",
+    "file": "catalog/imennye_brelki/1551/index.html"
+  },
+  "/catalog/imennye_brelki/1552/": {
+    "title": "Именной брелок Борис",
+    "file": "catalog/imennye_brelki/1552/index.html"
+  },
+  "/catalog/imennye_brelki/1553/": {
+    "title": "Именной брелок Вадим",
+    "file": "catalog/imennye_brelki/1553/index.html"
+  },
+  "/catalog/imennye_brelki/1554/": {
+    "title": "Именной брелок Валерий",
+    "file": "catalog/imennye_brelki/1554/index.html"
+  },
+  "/catalog/imennye_brelki/1555/": {
+    "title": "Именной брелок Василий",
+    "file": "catalog/imennye_brelki/1555/index.html"
+  },
+  "/catalog/imennye_brelki/1556/": {
+    "title": "Именной брелок Виктор",
+    "file": "catalog/imennye_brelki/1556/index.html"
+  },
+  "/catalog/imennye_brelki/1557/": {
+    "title": "Именной брелок Виталий",
+    "file": "catalog/imennye_brelki/1557/index.html"
+  },
+  "/catalog/imennye_brelki/1558/": {
+    "title": "Именной брелок Владимир",
+    "file": "catalog/imennye_brelki/1558/index.html"
+  },
+  "/catalog/imennye_brelki/1559/": {
+    "title": "Именной брелок Григорий",
+    "file": "catalog/imennye_brelki/1559/index.html"
+  },
+  "/catalog/imennye_brelki/1560/": {
+    "title": "Именной брелок Даниил",
+    "file": "catalog/imennye_brelki/1560/index.html"
+  },
+  "/catalog/imennye_brelki/1561/": {
+    "title": "Именной брелок Денис",
+    "file": "catalog/imennye_brelki/1561/index.html"
+  },
+  "/catalog/imennye_brelki/1562/": {
+    "title": "Именной брелок Дмитрий",
+    "file": "catalog/imennye_brelki/1562/index.html"
+  },
+  "/catalog/imennye_brelki/1563/": {
+    "title": "Именной брелок Евгений",
+    "file": "catalog/imennye_brelki/1563/index.html"
+  },
+  "/catalog/imennye_brelki/1564/": {
+    "title": "Именной брелок Егор",
+    "file": "catalog/imennye_brelki/1564/index.html"
+  },
+  "/catalog/imennye_brelki/1565/": {
+    "title": "Именной брелок Иван",
+    "file": "catalog/imennye_brelki/1565/index.html"
+  },
+  "/catalog/imennye_brelki/1566/": {
+    "title": "Именной брелок Игорь",
+    "file": "catalog/imennye_brelki/1566/index.html"
+  },
+  "/catalog/imennye_brelki/1567/": {
+    "title": "Именной брелок Илья",
+    "file": "catalog/imennye_brelki/1567/index.html"
+  },
+  "/catalog/imennye_brelki/1568/": {
+    "title": "Именной брелок Кирилл",
+    "file": "catalog/imennye_brelki/1568/index.html"
+  },
+  "/catalog/imennye_brelki/1569/": {
+    "title": "Именной брелок Константин",
+    "file": "catalog/imennye_brelki/1569/index.html"
+  },
+  "/catalog/imennye_brelki/1570/": {
+    "title": "Именной брелок Максим",
+    "file": "catalog/imennye_brelki/1570/index.html"
+  },
+  "/catalog/imennye_brelki/1571/": {
+    "title": "Именной брелок Михаил",
+    "file": "catalog/imennye_brelki/1571/index.html"
+  },
+  "/catalog/imennye_brelki/1572/": {
+    "title": "Именной брелок Никита",
+    "file": "catalog/imennye_brelki/1572/index.html"
+  },
+  "/catalog/imennye_brelki/1573/": {
+    "title": "Именной брелок Николай",
+    "file": "catalog/imennye_brelki/1573/index.html"
+  },
+  "/catalog/imennye_brelki/1574/": {
+    "title": "Именной брелок Олег",
+    "file": "catalog/imennye_brelki/1574/index.html"
+  },
+  "/catalog/imennye_brelki/1575/": {
+    "title": "Именной брелок Павел",
+    "file": "catalog/imennye_brelki/1575/index.html"
+  },
+  "/catalog/imennye_brelki/1576/": {
+    "title": "Именной брелок Петр",
+    "file": "catalog/imennye_brelki/1576/index.html"
+  },
+  "/catalog/imennye_brelki/1577/": {
+    "title": "Именной брелок Роман",
+    "file": "catalog/imennye_brelki/1577/index.html"
+  },
+  "/catalog/imennye_brelki/1578/": {
+    "title": "Именной брелок Руслан",
+    "file": "catalog/imennye_brelki/1578/index.html"
+  },
+  "/catalog/imennye_brelki/1579/": {
+    "title": "Именной брелок Сергей",
+    "file": "catalog/imennye_brelki/1579/index.html"
+  },
+  "/catalog/imennye_brelki/1580/": {
+    "title": "Именной брелок Юрий",
+    "file": "catalog/imennye_brelki/1580/index.html"
+  },
+  "/catalog/imennye_brelki/1581/": {
+    "title": "Именной брелок Геннадий",
+    "file": "catalog/imennye_brelki/1581/index.html"
+  },
+  "/catalog/imennye_brelki/1582/": {
+    "title": "Именной брелок Глеб",
+    "file": "catalog/imennye_brelki/1582/index.html"
+  },
+  "/catalog/imennye_brelki/1583/": {
+    "title": "Именной брелок Матвей",
+    "file": "catalog/imennye_brelki/1583/index.html"
+  },
+  "/catalog/imennye_brelki/1584/": {
+    "title": "Именной брелок Степан",
+    "file": "catalog/imennye_brelki/1584/index.html"
+  },
+  "/catalog/imennye_brelki/1585/": {
+    "title": "Именной брелок Ярослав",
+    "file": "catalog/imennye_brelki/1585/index.html"
+  },
+  "/catalog/imennye_brelki/1586/": {
+    "title": "Именной брелок Марк",
+    "file": "catalog/imennye_brelki/1586/index.html"
+  },
+  "/catalog/imennye_brelki/1588/": {
+    "title": "Именной брелок Александра",
+    "file": "catalog/imennye_brelki/1588/index.html"
+  },
+  "/catalog/imennye_brelki/1589/": {
+    "title": "Именной брелок Алена",
+    "file": "catalog/imennye_brelki/1589/index.html"
+  },
+  "/catalog/imennye_brelki/1590/": {
+    "title": "Именной брелок Анастасия",
+    "file": "catalog/imennye_brelki/1590/index.html"
+  },
+  "/catalog/imennye_brelki/1591/": {
+    "title": "Именной брелок Анна",
+    "file": "catalog/imennye_brelki/1591/index.html"
+  },
+  "/catalog/imennye_brelki/1592/": {
+    "title": "Именной брелок Валентина",
+    "file": "catalog/imennye_brelki/1592/index.html"
+  },
+  "/catalog/imennye_brelki/1593/": {
+    "title": "Именной брелок Валерия",
+    "file": "catalog/imennye_brelki/1593/index.html"
+  },
+  "/catalog/imennye_brelki/1594/": {
+    "title": "Именной брелок Вера",
+    "file": "catalog/imennye_brelki/1594/index.html"
+  },
+  "/catalog/imennye_brelki/1595/": {
+    "title": "Именной брелок Виктория",
+    "file": "catalog/imennye_brelki/1595/index.html"
+  },
+  "/catalog/imennye_brelki/1596/": {
+    "title": "Именной брелок Галина",
+    "file": "catalog/imennye_brelki/1596/index.html"
+  },
+  "/catalog/imennye_brelki/1597/": {
+    "title": "Именной брелок Дарья",
+    "file": "catalog/imennye_brelki/1597/index.html"
+  },
+  "/catalog/imennye_brelki/1598/": {
+    "title": "Именной брелок Диана",
+    "file": "catalog/imennye_brelki/1598/index.html"
+  },
+  "/catalog/imennye_brelki/1599/": {
+    "title": "Именной брелок Евгения",
+    "file": "catalog/imennye_brelki/1599/index.html"
+  },
+  "/catalog/imennye_brelki/1600/": {
+    "title": "Именной брелок Екатерина",
+    "file": "catalog/imennye_brelki/1600/index.html"
+  },
+  "/catalog/imennye_brelki/1601/": {
+    "title": "Именной брелок Елена",
+    "file": "catalog/imennye_brelki/1601/index.html"
+  },
+  "/catalog/imennye_brelki/1602/": {
+    "title": "Именной брелок Елизавета",
+    "file": "catalog/imennye_brelki/1602/index.html"
+  },
+  "/catalog/imennye_brelki/1603/": {
+    "title": "Именной брелок Жанна",
+    "file": "catalog/imennye_brelki/1603/index.html"
+  },
+  "/catalog/imennye_brelki/1604/": {
+    "title": "Именной брелок Ирина",
+    "file": "catalog/imennye_brelki/1604/index.html"
+  },
+  "/catalog/imennye_brelki/1605/": {
+    "title": "Именной брелок Кристина",
+    "file": "catalog/imennye_brelki/1605/index.html"
+  },
+  "/catalog/imennye_brelki/1606/": {
+    "title": "Именной брелок Ксения",
+    "file": "catalog/imennye_brelki/1606/index.html"
+  },
+  "/catalog/imennye_brelki/1607/": {
+    "title": "Именной брелок Лариса",
+    "file": "catalog/imennye_brelki/1607/index.html"
+  },
+  "/catalog/imennye_brelki/1608/": {
+    "title": "Именной брелок Любовь",
+    "file": "catalog/imennye_brelki/1608/index.html"
+  },
+  "/catalog/imennye_brelki/1609/": {
+    "title": "Именной брелок Людмила",
+    "file": "catalog/imennye_brelki/1609/index.html"
+  },
+  "/catalog/imennye_brelki/1610/": {
+    "title": "Именной брелок Маргарита",
+    "file": "catalog/imennye_brelki/1610/index.html"
+  },
+  "/catalog/imennye_brelki/1611/": {
+    "title": "Именной брелок Марина",
+    "file": "catalog/imennye_brelki/1611/index.html"
+  },
+  "/catalog/imennye_brelki/1612/": {
+    "title": "Именной брелок Мария",
+    "file": "catalog/imennye_brelki/1612/index.html"
+  },
+  "/catalog/imennye_brelki/1613/": {
+    "title": "Именной брелок Надежда",
+    "file": "catalog/imennye_brelki/1613/index.html"
+  },
+  "/catalog/imennye_brelki/1614/": {
+    "title": "Именной брелок Наталья",
+    "file": "catalog/imennye_brelki/1614/index.html"
+  },
+  "/catalog/imennye_brelki/1615/": {
+    "title": "Именной брелок Нина",
+    "file": "catalog/imennye_brelki/1615/index.html"
+  },
+  "/catalog/imennye_brelki/1616/": {
+    "title": "Именной брелок Оксана",
+    "file": "catalog/imennye_brelki/1616/index.html"
+  },
+  "/catalog/imennye_brelki/1617/": {
+    "title": "Именной брелок Олеся",
+    "file": "catalog/imennye_brelki/1617/index.html"
+  },
+  "/catalog/imennye_brelki/1618/": {
+    "title": "Именной брелок Ольга",
+    "file": "catalog/imennye_brelki/1618/index.html"
+  },
+  "/catalog/imennye_brelki/1619/": {
+    "title": "Именной брелок Полина",
+    "file": "catalog/imennye_brelki/1619/index.html"
+  },
+  "/catalog/imennye_brelki/1620/": {
+    "title": "Именной брелок Светлана",
+    "file": "catalog/imennye_brelki/1620/index.html"
+  },
+  "/catalog/imennye_brelki/1621/": {
+    "title": "Именной брелок София",
+    "file": "catalog/imennye_brelki/1621/index.html"
+  },
+  "/catalog/imennye_brelki/1622/": {
+    "title": "Именной брелок Татьяна",
+    "file": "catalog/imennye_brelki/1622/index.html"
+  },
+  "/catalog/imennye_brelki/1623/": {
+    "title": "Именной брелок Юлия",
+    "file": "catalog/imennye_brelki/1623/index.html"
+  },
+  "/catalog/imennye_brelki/1624/": {
+    "title": "Именной брелок Яна",
+    "file": "catalog/imennye_brelki/1624/index.html"
+  },
+  "/catalog/imennye_brelki/1625/": {
+    "title": "Именной брелок Милена",
+    "file": "catalog/imennye_brelki/1625/index.html"
+  },
+  "/catalog/imennye_brelki/1626/": {
+    "title": "Именной брелок Варвара",
+    "file": "catalog/imennye_brelki/1626/index.html"
+  },
+  "/catalog/imennye_brelki/1627/": {
+    "title": "Именной брелок Ульяна",
+    "file": "catalog/imennye_brelki/1627/index.html"
+  },
+  "/catalog/imennye_brelki/1628/": {
+    "title": "Именной брелок (жен)",
+    "file": "catalog/imennye_brelki/1628/index.html"
+  },
+  "/catalog/imennye_brelki/1924/": {
+    "title": "Именной брелок Антон",
+    "file": "catalog/imennye_brelki/1924/index.html"
+  },
+  "/catalog/imennye_brelki/1925/": {
+    "title": "Именной брелок Аркадий",
+    "file": "catalog/imennye_brelki/1925/index.html"
+  },
+  "/catalog/imennye_brelki/1926/": {
+    "title": "Именной брелок Артур",
+    "file": "catalog/imennye_brelki/1926/index.html"
+  },
+  "/catalog/imennye_brelki/1927/": {
+    "title": "Именной брелок Владислав",
+    "file": "catalog/imennye_brelki/1927/index.html"
+  },
+  "/catalog/imennye_brelki/1928/": {
+    "title": "Именной брелок Вячеслав",
+    "file": "catalog/imennye_brelki/1928/index.html"
+  },
+  "/catalog/imennye_brelki/1929/": {
+    "title": "Именной брелок Георгий",
+    "file": "catalog/imennye_brelki/1929/index.html"
+  },
+  "/catalog/imennye_brelki/1930/": {
+    "title": "Именной брелок Семен",
+    "file": "catalog/imennye_brelki/1930/index.html"
+  },
+  "/catalog/imennye_brelki/1931/": {
+    "title": "Именной брелок Станислав",
+    "file": "catalog/imennye_brelki/1931/index.html"
+  },
+  "/catalog/imennye_brelki/1932/": {
+    "title": "Именной брелок Тимур",
+    "file": "catalog/imennye_brelki/1932/index.html"
+  },
+  "/catalog/imennye_brelki/1933/": {
+    "title": "Именной брелок Алина",
+    "file": "catalog/imennye_brelki/1933/index.html"
+  },
+  "/catalog/imennye_brelki/1934/": {
+    "title": "Именной брелок Алла",
+    "file": "catalog/imennye_brelki/1934/index.html"
+  },
+  "/catalog/imennye_brelki/1935/": {
+    "title": "Именной брелок Вероника",
+    "file": "catalog/imennye_brelki/1935/index.html"
+  },
+  "/catalog/imennye_brelki/1936/": {
+    "title": "Именной брелок Ева",
+    "file": "catalog/imennye_brelki/1936/index.html"
+  },
+  "/catalog/imennye_brelki/1938/": {
+    "title": "Именной брелок Инна",
+    "file": "catalog/imennye_brelki/1938/index.html"
+  },
+  "/catalog/imennye_brelki/1939/": {
+    "title": "Именной брелок Карина",
+    "file": "catalog/imennye_brelki/1939/index.html"
+  },
+  "/catalog/imennye_brelki/1940/": {
+    "title": "Именной брелок Кира",
+    "file": "catalog/imennye_brelki/1940/index.html"
+  },
+  "/catalog/imennye_brelki/1941/": {
+    "title": "Именной брелок Лидия",
+    "file": "catalog/imennye_brelki/1941/index.html"
+  },
+  "/catalog/imennye_brelki/1942/": {
+    "title": "Именной брелок Тамара",
+    "file": "catalog/imennye_brelki/1942/index.html"
+  },
+  "/catalog/imennye_brelki/1961/": {
+    "title": "Именной брелок (муж)",
+    "file": "catalog/imennye_brelki/1961/index.html"
+  },
+  "/catalog/imennye_monety/1152/": {
+    "title": "Монета именная Александра",
+    "file": "catalog/imennye_monety/1152/index.html"
+  },
+  "/catalog/imennye_monety/1463/": {
+    "title": "Монета именная Алёна",
+    "file": "catalog/imennye_monety/1463/index.html"
+  },
+  "/catalog/imennye_monety/1464/": {
+    "title": "Монета именная Анастасия",
+    "file": "catalog/imennye_monety/1464/index.html"
+  },
+  "/catalog/imennye_monety/1465/": {
+    "title": "Монета именная Анна",
+    "file": "catalog/imennye_monety/1465/index.html"
+  },
+  "/catalog/imennye_monety/1466/": {
+    "title": "Монета именная Валентина",
+    "file": "catalog/imennye_monety/1466/index.html"
+  },
+  "/catalog/imennye_monety/1467/": {
+    "title": "Монета именная Валерия",
+    "file": "catalog/imennye_monety/1467/index.html"
+  },
+  "/catalog/imennye_monety/1468/": {
+    "title": "Монета именная Варвара",
+    "file": "catalog/imennye_monety/1468/index.html"
+  },
+  "/catalog/imennye_monety/1469/": {
+    "title": "Монета именная Вера",
+    "file": "catalog/imennye_monety/1469/index.html"
+  },
+  "/catalog/imennye_monety/1470/": {
+    "title": "Монета именная Вика",
+    "file": "catalog/imennye_monety/1470/index.html"
+  },
+  "/catalog/imennye_monety/1471/": {
+    "title": "Монета именная Галина",
+    "file": "catalog/imennye_monety/1471/index.html"
+  },
+  "/catalog/imennye_monety/1472/": {
+    "title": "Монета именная Дарья",
+    "file": "catalog/imennye_monety/1472/index.html"
+  },
+  "/catalog/imennye_monety/1473/": {
+    "title": "Монета именная Диана",
+    "file": "catalog/imennye_monety/1473/index.html"
+  },
+  "/catalog/imennye_monety/1474/": {
+    "title": "Монета именная Евгения",
+    "file": "catalog/imennye_monety/1474/index.html"
+  },
+  "/catalog/imennye_monety/1475/": {
+    "title": "Монета именная Екатерина",
+    "file": "catalog/imennye_monety/1475/index.html"
+  },
+  "/catalog/imennye_monety/1476/": {
+    "title": "Монета именная Елена",
+    "file": "catalog/imennye_monety/1476/index.html"
+  },
+  "/catalog/imennye_monety/1477/": {
+    "title": "Монета именная Елизавета",
+    "file": "catalog/imennye_monety/1477/index.html"
+  },
+  "/catalog/imennye_monety/1478/": {
+    "title": "Монета именная Жанна",
+    "file": "catalog/imennye_monety/1478/index.html"
+  },
+  "/catalog/imennye_monety/1479/": {
+    "title": "Монета именная Ирина",
+    "file": "catalog/imennye_monety/1479/index.html"
+  },
+  "/catalog/imennye_monety/1480/": {
+    "title": "Монета именная Кристина",
+    "file": "catalog/imennye_monety/1480/index.html"
+  },
+  "/catalog/imennye_monety/1481/": {
+    "title": "Монета именная Ксения",
+    "file": "catalog/imennye_monety/1481/index.html"
+  },
+  "/catalog/imennye_monety/1482/": {
+    "title": "Монета именная Лариса",
+    "file": "catalog/imennye_monety/1482/index.html"
+  },
+  "/catalog/imennye_monety/1483/": {
+    "title": "Монета именная Любовь",
+    "file": "catalog/imennye_monety/1483/index.html"
+  },
+  "/catalog/imennye_monety/1484/": {
+    "title": "Монета именная Людмила",
+    "file": "catalog/imennye_monety/1484/index.html"
+  },
+  "/catalog/imennye_monety/1485/": {
+    "title": "Монета именная Маргарита",
+    "file": "catalog/imennye_monety/1485/index.html"
+  },
+  "/catalog/imennye_monety/1486/": {
+    "title": "Монета именная Марина",
+    "file": "catalog/imennye_monety/1486/index.html"
+  },
+  "/catalog/imennye_monety/1487/": {
+    "title": "Монета именная Мария",
+    "file": "catalog/imennye_monety/1487/index.html"
+  },
+  "/catalog/imennye_monety/1488/": {
+    "title": "Монета именная Милена",
+    "file": "catalog/imennye_monety/1488/index.html"
+  },
+  "/catalog/imennye_monety/1489/": {
+    "title": "Монета именная Надежда",
+    "file": "catalog/imennye_monety/1489/index.html"
+  },
+  "/catalog/imennye_monety/1490/": {
+    "title": "Монета именная Наталья",
+    "file": "catalog/imennye_monety/1490/index.html"
+  },
+  "/catalog/imennye_monety/1491/": {
+    "title": "Монета именная Нина",
+    "file": "catalog/imennye_monety/1491/index.html"
+  },
+  "/catalog/imennye_monety/1492/": {
+    "title": "Монета именная Оксана",
+    "file": "catalog/imennye_monety/1492/index.html"
+  },
+  "/catalog/imennye_monety/1493/": {
+    "title": "Монета именная Олеся",
+    "file": "catalog/imennye_monety/1493/index.html"
+  },
+  "/catalog/imennye_monety/1494/": {
+    "title": "Монета именная Ольга",
+    "file": "catalog/imennye_monety/1494/index.html"
+  },
+  "/catalog/imennye_monety/1495/": {
+    "title": "Монета именная Полина",
+    "file": "catalog/imennye_monety/1495/index.html"
+  },
+  "/catalog/imennye_monety/1496/": {
+    "title": "Монета именная Светлана",
+    "file": "catalog/imennye_monety/1496/index.html"
+  },
+  "/catalog/imennye_monety/1497/": {
+    "title": "Монета именная София",
+    "file": "catalog/imennye_monety/1497/index.html"
+  },
+  "/catalog/imennye_monety/1498/": {
+    "title": "Монета именная Татьяна",
+    "file": "catalog/imennye_monety/1498/index.html"
+  },
+  "/catalog/imennye_monety/1499/": {
+    "title": "Монета именная Ульяна",
+    "file": "catalog/imennye_monety/1499/index.html"
+  },
+  "/catalog/imennye_monety/1500/": {
+    "title": "Монета именная Юлия",
+    "file": "catalog/imennye_monety/1500/index.html"
+  },
+  "/catalog/imennye_monety/1501/": {
+    "title": "Монета именная Яна",
+    "file": "catalog/imennye_monety/1501/index.html"
+  },
+  "/catalog/imennye_monety/1502/": {
+    "title": "Твой именной оберег (жен)",
+    "file": "catalog/imennye_monety/1502/index.html"
+  },
+  "/catalog/imennye_monety/1503/": {
+    "title": "Монета именная Александр",
+    "file": "catalog/imennye_monety/1503/index.html"
+  },
+  "/catalog/imennye_monety/1504/": {
+    "title": "Монета именная Алексей",
+    "file": "catalog/imennye_monety/1504/index.html"
+  },
+  "/catalog/imennye_monety/1505/": {
+    "title": "Монета именная Анатолий",
+    "file": "catalog/imennye_monety/1505/index.html"
+  },
+  "/catalog/imennye_monety/1506/": {
+    "title": "Монета именная Андрей",
+    "file": "catalog/imennye_monety/1506/index.html"
+  },
+  "/catalog/imennye_monety/1507/": {
+    "title": "Монета именная Артём",
+    "file": "catalog/imennye_monety/1507/index.html"
+  },
+  "/catalog/imennye_monety/1508/": {
+    "title": "Монета именная Борис",
+    "file": "catalog/imennye_monety/1508/index.html"
+  },
+  "/catalog/imennye_monety/1509/": {
+    "title": "Монета именная Вадим",
+    "file": "catalog/imennye_monety/1509/index.html"
+  },
+  "/catalog/imennye_monety/1510/": {
+    "title": "Монета именная Валерий",
+    "file": "catalog/imennye_monety/1510/index.html"
+  },
+  "/catalog/imennye_monety/1511/": {
+    "title": "Монета именная Василий",
+    "file": "catalog/imennye_monety/1511/index.html"
+  },
+  "/catalog/imennye_monety/1512/": {
+    "title": "Монета именная Виктор",
+    "file": "catalog/imennye_monety/1512/index.html"
+  },
+  "/catalog/imennye_monety/1513/": {
+    "title": "Монета именная Виталий",
+    "file": "catalog/imennye_monety/1513/index.html"
+  },
+  "/catalog/imennye_monety/1514/": {
+    "title": "Монета именная Владимир",
+    "file": "catalog/imennye_monety/1514/index.html"
+  },
+  "/catalog/imennye_monety/1515/": {
+    "title": "Монета именная Геннадий",
+    "file": "catalog/imennye_monety/1515/index.html"
+  },
+  "/catalog/imennye_monety/1516/": {
+    "title": "Монета именная Глеб",
+    "file": "catalog/imennye_monety/1516/index.html"
+  },
+  "/catalog/imennye_monety/1517/": {
+    "title": "Монета именная Григорий",
+    "file": "catalog/imennye_monety/1517/index.html"
+  },
+  "/catalog/imennye_monety/1518/": {
+    "title": "Монета именная Даниил",
+    "file": "catalog/imennye_monety/1518/index.html"
+  },
+  "/catalog/imennye_monety/1519/": {
+    "title": "Монета именная Денис",
+    "file": "catalog/imennye_monety/1519/index.html"
+  },
+  "/catalog/imennye_monety/1520/": {
+    "title": "Монета именная Дмитрий",
+    "file": "catalog/imennye_monety/1520/index.html"
+  },
+  "/catalog/imennye_monety/1521/": {
+    "title": "Монета именная Евгений",
+    "file": "catalog/imennye_monety/1521/index.html"
+  },
+  "/catalog/imennye_monety/1522/": {
+    "title": "Монета именная Егор",
+    "file": "catalog/imennye_monety/1522/index.html"
+  },
+  "/catalog/imennye_monety/1523/": {
+    "title": "Монета именная Иван",
+    "file": "catalog/imennye_monety/1523/index.html"
+  },
+  "/catalog/imennye_monety/1524/": {
+    "title": "Монета именная Игорь",
+    "file": "catalog/imennye_monety/1524/index.html"
+  },
+  "/catalog/imennye_monety/1525/": {
+    "title": "Монета именная Илья",
+    "file": "catalog/imennye_monety/1525/index.html"
+  },
+  "/catalog/imennye_monety/1526/": {
+    "title": "Монета именная Кирилл",
+    "file": "catalog/imennye_monety/1526/index.html"
+  },
+  "/catalog/imennye_monety/1527/": {
+    "title": "Монета именная Константин",
+    "file": "catalog/imennye_monety/1527/index.html"
+  },
+  "/catalog/imennye_monety/1528/": {
+    "title": "Монета именная Максим",
+    "file": "catalog/imennye_monety/1528/index.html"
+  },
+  "/catalog/imennye_monety/1529/": {
+    "title": "Монета именная Марк",
+    "file": "catalog/imennye_monety/1529/index.html"
+  },
+  "/catalog/imennye_monety/1530/": {
+    "title": "Монета именная Матвей",
+    "file": "catalog/imennye_monety/1530/index.html"
+  },
+  "/catalog/imennye_monety/1531/": {
+    "title": "Монета именная Михаил",
+    "file": "catalog/imennye_monety/1531/index.html"
+  },
+  "/catalog/imennye_monety/1532/": {
+    "title": "Монета именная Никита",
+    "file": "catalog/imennye_monety/1532/index.html"
+  },
+  "/catalog/imennye_monety/1533/": {
+    "title": "Монета именная Николай",
+    "file": "catalog/imennye_monety/1533/index.html"
+  },
+  "/catalog/imennye_monety/1534/": {
+    "title": "Монета именная Олег",
+    "file": "catalog/imennye_monety/1534/index.html"
+  },
+  "/catalog/imennye_monety/1535/": {
+    "title": "Монета именная Павел",
+    "file": "catalog/imennye_monety/1535/index.html"
+  },
+  "/catalog/imennye_monety/1536/": {
+    "title": "Монета именная Пётр",
+    "file": "catalog/imennye_monety/1536/index.html"
+  },
+  "/catalog/imennye_monety/1537/": {
+    "title": "Монета именная Роман",
+    "file": "catalog/imennye_monety/1537/index.html"
+  },
+  "/catalog/imennye_monety/1538/": {
+    "title": "Монета именная Руслан",
+    "file": "catalog/imennye_monety/1538/index.html"
+  },
+  "/catalog/imennye_monety/1539/": {
+    "title": "Монета именная Сергей",
+    "file": "catalog/imennye_monety/1539/index.html"
+  },
+  "/catalog/imennye_monety/1540/": {
+    "title": "Монета именная Степан",
+    "file": "catalog/imennye_monety/1540/index.html"
+  },
+  "/catalog/imennye_monety/1541/": {
+    "title": "Монета именная Юрий",
+    "file": "catalog/imennye_monety/1541/index.html"
+  },
+  "/catalog/imennye_monety/1542/": {
+    "title": "Монета именная Ярослав",
+    "file": "catalog/imennye_monety/1542/index.html"
+  },
+  "/catalog/imennye_monety/1543/": {
+    "title": "Твой именной оберег (муж)",
+    "file": "catalog/imennye_monety/1543/index.html"
+  },
+  "/catalog/imennye_monety/1943/": {
+    "title": "Монета именная Алина",
+    "file": "catalog/imennye_monety/1943/index.html"
+  },
+  "/catalog/imennye_monety/1944/": {
+    "title": "Монета именная Алла",
+    "file": "catalog/imennye_monety/1944/index.html"
+  },
+  "/catalog/imennye_monety/1945/": {
+    "title": "Монета именная Вероника",
+    "file": "catalog/imennye_monety/1945/index.html"
+  },
+  "/catalog/imennye_monety/1946/": {
+    "title": "Монета именная Ева",
+    "file": "catalog/imennye_monety/1946/index.html"
+  },
+  "/catalog/imennye_monety/1947/": {
+    "title": "Монета именная Инна",
+    "file": "catalog/imennye_monety/1947/index.html"
+  },
+  "/catalog/imennye_monety/1948/": {
+    "title": "Монета именная Карина",
+    "file": "catalog/imennye_monety/1948/index.html"
+  },
+  "/catalog/imennye_monety/1949/": {
+    "title": "Монета именная Кира",
+    "file": "catalog/imennye_monety/1949/index.html"
+  },
+  "/catalog/imennye_monety/1950/": {
+    "title": "Монета именная Лидия",
+    "file": "catalog/imennye_monety/1950/index.html"
+  },
+  "/catalog/imennye_monety/1951/": {
+    "title": "Монета именная Тамара",
+    "file": "catalog/imennye_monety/1951/index.html"
+  },
+  "/catalog/imennye_monety/1952/": {
+    "title": "Монета именная Антон",
+    "file": "catalog/imennye_monety/1952/index.html"
+  },
+  "/catalog/imennye_monety/1953/": {
+    "title": "Монета именная Аркадий",
+    "file": "catalog/imennye_monety/1953/index.html"
+  },
+  "/catalog/imennye_monety/1954/": {
+    "title": "Монета именная Артур",
+    "file": "catalog/imennye_monety/1954/index.html"
+  },
+  "/catalog/imennye_monety/1955/": {
+    "title": "Монета именная Владислав",
+    "file": "catalog/imennye_monety/1955/index.html"
+  },
+  "/catalog/imennye_monety/1956/": {
+    "title": "Монета именная Вячеслав",
+    "file": "catalog/imennye_monety/1956/index.html"
+  },
+  "/catalog/imennye_monety/1957/": {
+    "title": "Монета именная Георгий",
+    "file": "catalog/imennye_monety/1957/index.html"
+  },
+  "/catalog/imennye_monety/1958/": {
+    "title": "Монета именная Семен",
+    "file": "catalog/imennye_monety/1958/index.html"
+  },
+  "/catalog/imennye_monety/1959/": {
+    "title": "Монета именная Станислав",
+    "file": "catalog/imennye_monety/1959/index.html"
+  },
+  "/catalog/imennye_monety/1960/": {
+    "title": "Монета именная Тимур",
+    "file": "catalog/imennye_monety/1960/index.html"
+  },
+  "/catalog/izdeliya_iz_fanery/1153/": {
+    "title": "Макет ножа",
+    "file": "catalog/izdeliya_iz_fanery/1153/index.html"
+  },
+  "/catalog/izdeliya_iz_fanery/1154/": {
+    "title": "Макет пистолета",
+    "file": "catalog/izdeliya_iz_fanery/1154/index.html"
+  },
+  "/catalog/kolokolchiki/1155/": {
+    "title": "Колокольчик Ангел Амур",
+    "file": "catalog/kolokolchiki/1155/index.html"
+  },
+  "/catalog/kolokolchiki/1630/": {
+    "title": "Колокольчик Сова с деревом",
+    "file": "catalog/kolokolchiki/1630/index.html"
+  },
+  "/catalog/kolokolchiki/1631/": {
+    "title": "Колокольчик заяц с микрофоном",
+    "file": "catalog/kolokolchiki/1631/index.html"
+  },
+  "/catalog/kolokolchiki/1632/": {
+    "title": "Колокольчик Кролик большой",
+    "file": "catalog/kolokolchiki/1632/index.html"
+  },
+  "/catalog/kolokolchiki/1633/": {
+    "title": "Колокольчик Заяц на цветах",
+    "file": "catalog/kolokolchiki/1633/index.html"
+  },
+  "/catalog/kolokolchiki/1634/": {
+    "title": "Колокольчик Сова с книгой",
+    "file": "catalog/kolokolchiki/1634/index.html"
+  },
+  "/catalog/kolokolchiki/1635/": {
+    "title": "Колокольчик Самоварчик маленький",
+    "file": "catalog/kolokolchiki/1635/index.html"
+  },
+  "/catalog/kolokolchiki/1636/": {
+    "title": "Колокольчик Кот ловит ворону",
+    "file": "catalog/kolokolchiki/1636/index.html"
+  },
+  "/catalog/kolokolchiki/1637/": {
+    "title": "Колокольчик Черепаха со львенком",
+    "file": "catalog/kolokolchiki/1637/index.html"
+  },
+  "/catalog/kolokolchiki/1638/": {
+    "title": "Колокольчик Толстый кот",
+    "file": "catalog/kolokolchiki/1638/index.html"
+  },
+  "/catalog/kolokolchiki/1639/": {
+    "title": "Колокольчик Кролик с букетом",
+    "file": "catalog/kolokolchiki/1639/index.html"
+  },
+  "/catalog/kolokolchiki/1640/": {
+    "title": "Колокольчик Самовар с глазами",
+    "file": "catalog/kolokolchiki/1640/index.html"
+  },
+  "/catalog/kolokolchiki/1641/": {
+    "title": "Колокольчик Котенок с бабочкой",
+    "file": "catalog/kolokolchiki/1641/index.html"
+  },
+  "/catalog/kolokolchiki/1642/": {
+    "title": "Колокольчик Самовар с сапогом",
+    "file": "catalog/kolokolchiki/1642/index.html"
+  },
+  "/catalog/kolokolchiki/1643/": {
+    "title": "Колокольчик Кот на ветке",
+    "file": "catalog/kolokolchiki/1643/index.html"
+  },
+  "/catalog/kolokolchiki/1644/": {
+    "title": "Колокольчик Мышь хватит жрать",
+    "file": "catalog/kolokolchiki/1644/index.html"
+  },
+  "/catalog/kolokolchiki/1645/": {
+    "title": "Колокольчик Кот скрипач",
+    "file": "catalog/kolokolchiki/1645/index.html"
+  },
+  "/catalog/kolokolchiki/1646/": {
+    "title": "Колокольчик Ёж с клубникой",
+    "file": "catalog/kolokolchiki/1646/index.html"
+  },
+  "/catalog/kolokolchiki/1647/": {
+    "title": "Колокольчик Медведица с медвежонком",
+    "file": "catalog/kolokolchiki/1647/index.html"
+  },
+  "/catalog/kolokolchiki/1648/": {
+    "title": "Колокольчик Филин (улыбка)",
+    "file": "catalog/kolokolchiki/1648/index.html"
+  },
+  "/catalog/kolokolchiki/1649/": {
+    "title": "Колокольчик Ёж с грибами",
+    "file": "catalog/kolokolchiki/1649/index.html"
+  },
+  "/catalog/kolokolchiki/1650/": {
+    "title": "Колокольчик Сова летящая",
+    "file": "catalog/kolokolchiki/1650/index.html"
+  },
+  "/catalog/kolokolchiki/1651/": {
+    "title": "Колокольчик Ворона и лисица",
+    "file": "catalog/kolokolchiki/1651/index.html"
+  },
+  "/catalog/kolokolchiki/1652/": {
+    "title": "Колокольчик Лягушка-царевна",
+    "file": "catalog/kolokolchiki/1652/index.html"
+  },
+  "/catalog/kolokolchiki/1653/": {
+    "title": "Колокольчик Совенок",
+    "file": "catalog/kolokolchiki/1653/index.html"
+  },
+  "/catalog/kolokolchiki/1654/": {
+    "title": "Колокольчик Толстый кот на подушке",
+    "file": "catalog/kolokolchiki/1654/index.html"
+  },
+  "/catalog/kolokolchiki/1655/": {
+    "title": "Колокольчик Филин с книгой",
+    "file": "catalog/kolokolchiki/1655/index.html"
+  },
+  "/catalog/kolokolchiki/1656/": {
+    "title": "Колокольчик Мишка с пчелкой",
+    "file": "catalog/kolokolchiki/1656/index.html"
+  },
+  "/catalog/kolokolchiki/1657/": {
+    "title": "Колокольчик Котенок с бантом",
+    "file": "catalog/kolokolchiki/1657/index.html"
+  },
+  "/catalog/kolokolchiki/1658/": {
+    "title": "Колокольчик Мышь на кастрюле",
+    "file": "catalog/kolokolchiki/1658/index.html"
+  },
+  "/catalog/kolokolchiki/1659/": {
+    "title": "Колокольчик Кот спина дугой",
+    "file": "catalog/kolokolchiki/1659/index.html"
+  },
+  "/catalog/kolokolchiki/1660/": {
+    "title": "Колокольчик Сова на ветке",
+    "file": "catalog/kolokolchiki/1660/index.html"
+  },
+  "/catalog/kolokolchiki/1661/": {
+    "title": "Колокольчик Девочка с мишкой",
+    "file": "catalog/kolokolchiki/1661/index.html"
+  },
+  "/catalog/kolokolchiki/1662/": {
+    "title": "Колокольчик Слон №1",
+    "file": "catalog/kolokolchiki/1662/index.html"
+  },
+  "/catalog/kolokolchiki/1663/": {
+    "title": "Колокольчик Самовар открывающийся",
+    "file": "catalog/kolokolchiki/1663/index.html"
+  },
+  "/catalog/kolokolchiki/1664/": {
+    "title": "Колокольчик Котик на подушке",
+    "file": "catalog/kolokolchiki/1664/index.html"
+  },
+  "/catalog/kolokolchiki/1665/": {
+    "title": "Колокольчик Медведь",
+    "file": "catalog/kolokolchiki/1665/index.html"
+  },
+  "/catalog/kolokolchiki/1666/": {
+    "title": "Колокольчик Утка малая",
+    "file": "catalog/kolokolchiki/1666/index.html"
+  },
+  "/catalog/kolokolchiki/1667/": {
+    "title": "Колокольчик Кот на корзине",
+    "file": "catalog/kolokolchiki/1667/index.html"
+  },
+  "/catalog/kolokolchiki/1668/": {
+    "title": "Колокольчик  Поросенок",
+    "file": "catalog/kolokolchiki/1668/index.html"
+  },
+  "/catalog/kolokolchiki/1669/": {
+    "title": "Колокольчик Леопольд",
+    "file": "catalog/kolokolchiki/1669/index.html"
+  },
+  "/catalog/kolokolchiki/1670/": {
+    "title": "Колокольчик Рыбка",
+    "file": "catalog/kolokolchiki/1670/index.html"
+  },
+  "/catalog/kolokolchiki/1671/": {
+    "title": "Колокольчик Ёж с яблоками",
+    "file": "catalog/kolokolchiki/1671/index.html"
+  },
+  "/catalog/kolokolchiki/1672/": {
+    "title": "Колокольчик Медведь в кафтане",
+    "file": "catalog/kolokolchiki/1672/index.html"
+  },
+  "/catalog/kolokolchiki/1673/": {
+    "title": "Колокольчик Кот с рыбами",
+    "file": "catalog/kolokolchiki/1673/index.html"
+  },
+  "/catalog/kolokolchiki/1674/": {
+    "title": "Колокольчик Мужик с балалайкой",
+    "file": "catalog/kolokolchiki/1674/index.html"
+  },
+  "/catalog/kolokolchiki/1675/": {
+    "title": "Колокольчик Крот",
+    "file": "catalog/kolokolchiki/1675/index.html"
+  },
+  "/catalog/kolokolchiki/1676/": {
+    "title": "Колокольчик Котик с шаром",
+    "file": "catalog/kolokolchiki/1676/index.html"
+  },
+  "/catalog/kolokolchiki/1677/": {
+    "title": "Колокольчик Кот с бабочкой большой",
+    "file": "catalog/kolokolchiki/1677/index.html"
+  },
+  "/catalog/kolokolchiki/1678/": {
+    "title": "Колокольчик Рататуй",
+    "file": "catalog/kolokolchiki/1678/index.html"
+  },
+  "/catalog/kolokolchiki/1679/": {
+    "title": "Колокольчик Слон сидит большой",
+    "file": "catalog/kolokolchiki/1679/index.html"
+  },
+  "/catalog/kolokolchiki/1680/": {
+    "title": "Колокольчик Кот с гитарой",
+    "file": "catalog/kolokolchiki/1680/index.html"
+  },
+  "/catalog/kolokolchiki/1681/": {
+    "title": "Колокольчик Кролик с морковкой",
+    "file": "catalog/kolokolchiki/1681/index.html"
+  },
+  "/catalog/kolokolchiki/1682/": {
+    "title": "Колокольчик Кошка с бантом",
+    "file": "catalog/kolokolchiki/1682/index.html"
+  },
+  "/catalog/kolokolchiki/1683/": {
+    "title": "Колокольчик Рыбак",
+    "file": "catalog/kolokolchiki/1683/index.html"
+  },
+  "/catalog/kolokolchiki/1684/": {
+    "title": "Колокольчик Ворона на рыбе",
+    "file": "catalog/kolokolchiki/1684/index.html"
+  },
+  "/catalog/kolokolchiki/1685/": {
+    "title": "Колокольчик Баба в пышной юбке",
+    "file": "catalog/kolokolchiki/1685/index.html"
+  },
+  "/catalog/kolokolchiki/1686/": {
+    "title": "Колокольчик Медведь на бочке",
+    "file": "catalog/kolokolchiki/1686/index.html"
+  },
+  "/catalog/kolokolchiki/1687/": {
+    "title": "Колокольчик Снегурочка с котом",
+    "file": "catalog/kolokolchiki/1687/index.html"
+  },
+  "/catalog/kolokolchiki/1688/": {
+    "title": "Колокольчик Кот-Египет",
+    "file": "catalog/kolokolchiki/1688/index.html"
+  },
+  "/catalog/kolokolchiki/1689/": {
+    "title": "Колокольчик Гусь",
+    "file": "catalog/kolokolchiki/1689/index.html"
+  },
+  "/catalog/kolokolchiki/1690/": {
+    "title": "Колокольчик Собака на кости",
+    "file": "catalog/kolokolchiki/1690/index.html"
+  },
+  "/catalog/kolokolchiki/1691/": {
+    "title": "Колокольчик Щенок с костями",
+    "file": "catalog/kolokolchiki/1691/index.html"
+  },
+  "/catalog/kolokolchiki/1692/": {
+    "title": "Колокольчик Дог с костью",
+    "file": "catalog/kolokolchiki/1692/index.html"
+  },
+  "/catalog/kolokolchiki/1693/": {
+    "title": "Колокольчик Терьер лохматый",
+    "file": "catalog/kolokolchiki/1693/index.html"
+  },
+  "/catalog/kolokolchiki/1694/": {
+    "title": "Колокольчик Девушка в капюшоне",
+    "file": "catalog/kolokolchiki/1694/index.html"
+  },
+  "/catalog/kolokolchiki/1695/": {
+    "title": "Колокольчик Лягушка на грибе",
+    "file": "catalog/kolokolchiki/1695/index.html"
+  },
+  "/catalog/kolokolchiki/1696/": {
+    "title": "Колокольчик Заяц в шляпе",
+    "file": "catalog/kolokolchiki/1696/index.html"
+  },
+  "/catalog/kolokolchiki/1697/": {
+    "title": "Колокольчик Слон пон-пон",
+    "file": "catalog/kolokolchiki/1697/index.html"
+  },
+  "/catalog/kolokolchiki/1698/": {
+    "title": "Колокольчик Сова малая",
+    "file": "catalog/kolokolchiki/1698/index.html"
+  },
+  "/catalog/kolokolchiki/1699/": {
+    "title": "Колокольчик Лиса",
+    "file": "catalog/kolokolchiki/1699/index.html"
+  },
+  "/catalog/kolokolchiki/1700/": {
+    "title": "Колокольчик Кот с мышами",
+    "file": "catalog/kolokolchiki/1700/index.html"
+  },
+  "/catalog/kolokolchiki/1701/": {
+    "title": "Колокольчик Волк",
+    "file": "catalog/kolokolchiki/1701/index.html"
+  },
+  "/catalog/kolokolchiki/1702/": {
+    "title": "Колокольчик Кот с сосиской",
+    "file": "catalog/kolokolchiki/1702/index.html"
+  },
+  "/catalog/kolokolchiki/1703/": {
+    "title": "Колокольчик Змей",
+    "file": "catalog/kolokolchiki/1703/index.html"
+  },
+  "/catalog/kolokolchiki/1704/": {
+    "title": "Колокольчик Свин на блюде",
+    "file": "catalog/kolokolchiki/1704/index.html"
+  },
+  "/catalog/kolokolchiki/1705/": {
+    "title": "Колокольчик Девочка с корзиной",
+    "file": "catalog/kolokolchiki/1705/index.html"
+  },
+  "/catalog/kolokolchiki/1706/": {
+    "title": "Колокольчик Еж с грибом на шляпе",
+    "file": "catalog/kolokolchiki/1706/index.html"
+  },
+  "/catalog/kolokolchiki/1707/": {
+    "title": "Колокольчик Еж с грибом на шляпе малый",
+    "file": "catalog/kolokolchiki/1707/index.html"
+  },
+  "/catalog/kolokolchiki/1708/": {
+    "title": "Колокольчик Рыбка царевна",
+    "file": "catalog/kolokolchiki/1708/index.html"
+  },
+  "/catalog/kolokolchiki/1709/": {
+    "title": "Колокольчик Пчела с ведром",
+    "file": "catalog/kolokolchiki/1709/index.html"
+  },
+  "/catalog/kolokolchiki/1710/": {
+    "title": "Колокольчик Самовар на столе",
+    "file": "catalog/kolokolchiki/1710/index.html"
+  },
+  "/catalog/kolokolchiki/1711/": {
+    "title": "Колокольчик Корова",
+    "file": "catalog/kolokolchiki/1711/index.html"
+  },
+  "/catalog/kolokolchiki/1712/": {
+    "title": "Колокольчик Белка с орехами",
+    "file": "catalog/kolokolchiki/1712/index.html"
+  },
+  "/catalog/kolokolchiki/1713/": {
+    "title": "Колокольчик Петух",
+    "file": "catalog/kolokolchiki/1713/index.html"
+  },
+  "/catalog/kolokolchiki/1714/": {
+    "title": "Колокольчик Лиса с колобком",
+    "file": "catalog/kolokolchiki/1714/index.html"
+  },
+  "/catalog/kolokolchiki/1715/": {
+    "title": "Колокольчик Верблюд",
+    "file": "catalog/kolokolchiki/1715/index.html"
+  },
+  "/catalog/kolokolchiki/1716/": {
+    "title": "Колокольчик Белка на суку",
+    "file": "catalog/kolokolchiki/1716/index.html"
+  },
+  "/catalog/kolokolchiki/1717/": {
+    "title": "Колокольчик Лошадь на дыбы",
+    "file": "catalog/kolokolchiki/1717/index.html"
+  },
+  "/catalog/kolokolchiki/1718/": {
+    "title": "Колокольчик Лошадь шея набок",
+    "file": "catalog/kolokolchiki/1718/index.html"
+  },
+  "/catalog/kolokolchiki/1719/": {
+    "title": "Колокольчик Лошадь бегущая",
+    "file": "catalog/kolokolchiki/1719/index.html"
+  },
+  "/catalog/kolokolchiki/1720/": {
+    "title": "Колокольчик Мышь на кастрюле \"Хватит жрать\"",
+    "file": "catalog/kolokolchiki/1720/index.html"
+  },
+  "/catalog/kolokolchiki/1721/": {
+    "title": "Колокольчик Верблюд с человеком",
+    "file": "catalog/kolokolchiki/1721/index.html"
+  },
+  "/catalog/kolokolchiki/1722/": {
+    "title": "Колокольчик Еж с грибом сидит",
+    "file": "catalog/kolokolchiki/1722/index.html"
+  },
+  "/catalog/kolokolchiki/1723/": {
+    "title": "Колокольчик Конь шахматы",
+    "file": "catalog/kolokolchiki/1723/index.html"
+  },
+  "/catalog/kolokolchiki/1724/": {
+    "title": "Колокольчик Дед Мороз",
+    "file": "catalog/kolokolchiki/1724/index.html"
+  },
+  "/catalog/kolokolchiki/1725/": {
+    "title": "Колокольчик Слон с бабочкой",
+    "file": "catalog/kolokolchiki/1725/index.html"
+  },
+  "/catalog/kolokolchiki/1726/": {
+    "title": "Колокольчик Орел",
+    "file": "catalog/kolokolchiki/1726/index.html"
+  },
+  "/catalog/kolokolchiki/1727/": {
+    "title": "Колокольчик Герб",
+    "file": "catalog/kolokolchiki/1727/index.html"
+  },
+  "/catalog/kolokolchiki/1728/": {
+    "title": "Колокольчик Сова",
+    "file": "catalog/kolokolchiki/1728/index.html"
+  },
+  "/catalog/kolokolchiki/1729/": {
+    "title": "Колокольчик Чайник",
+    "file": "catalog/kolokolchiki/1729/index.html"
+  },
+  "/catalog/kolokolchiki/1730/": {
+    "title": "Колокольчик Ангел малый",
+    "file": "catalog/kolokolchiki/1730/index.html"
+  },
+  "/catalog/kolokolchiki/1731/": {
+    "title": "Колокольчик Амур с луком малый",
+    "file": "catalog/kolokolchiki/1731/index.html"
+  },
+  "/catalog/kolokolchiki/1732/": {
+    "title": "Колокольчик Мышь на мешке",
+    "file": "catalog/kolokolchiki/1732/index.html"
+  },
+  "/catalog/kolokolchiki/1733/": {
+    "title": "Колокольчик Мешок с рублем",
+    "file": "catalog/kolokolchiki/1733/index.html"
+  },
+  "/catalog/kolokolchiki/1734/": {
+    "title": "Колокольчик Утюг",
+    "file": "catalog/kolokolchiki/1734/index.html"
+  },
+  "/catalog/kolokolchiki/1735/": {
+    "title": "Колокольчик Сова на пне",
+    "file": "catalog/kolokolchiki/1735/index.html"
+  },
+  "/catalog/kolokolchiki/1736/": {
+    "title": "Колокольчик Ангел большой",
+    "file": "catalog/kolokolchiki/1736/index.html"
+  },
+  "/catalog/kolokolchiki/1737/": {
+    "title": "Колокольчик Красавица с зеркалом",
+    "file": "catalog/kolokolchiki/1737/index.html"
+  },
+  "/catalog/kolokolchiki/1738/": {
+    "title": "Колокольчик Красавица с букетом",
+    "file": "catalog/kolokolchiki/1738/index.html"
+  },
+  "/catalog/kolokolchiki/1739/": {
+    "title": "Колокольчик Амур со стрелой",
+    "file": "catalog/kolokolchiki/1739/index.html"
+  },
+  "/catalog/kolokolchiki/1740/": {
+    "title": "Колокольчик Снегурочка с оленем",
+    "file": "catalog/kolokolchiki/1740/index.html"
+  },
+  "/catalog/kolokolchiki/1741/": {
+    "title": "Колокольчик Маме №5",
+    "file": "catalog/kolokolchiki/1741/index.html"
+  },
+  "/catalog/kolokolchiki/1742/": {
+    "title": "Колокольчик Папе №5",
+    "file": "catalog/kolokolchiki/1742/index.html"
+  },
+  "/catalog/kolokolchiki/1743/": {
+    "title": "Колокольчик Денег перезвон №5",
+    "file": "catalog/kolokolchiki/1743/index.html"
+  },
+  "/catalog/kolokolchiki/1744/": {
+    "title": "Колокольчик Любит №4",
+    "file": "catalog/kolokolchiki/1744/index.html"
+  },
+  "/catalog/kolokolchiki/1745/": {
+    "title": "Колокольчик Языческий №5",
+    "file": "catalog/kolokolchiki/1745/index.html"
+  },
+  "/catalog/kolokolchiki/1746/": {
+    "title": "Колокольчик Золотое кольцо №4",
+    "file": "catalog/kolokolchiki/1746/index.html"
+  },
+  "/catalog/kolokolchiki/1747/": {
+    "title": "Колокольчик Поет №5",
+    "file": "catalog/kolokolchiki/1747/index.html"
+  },
+  "/catalog/kolokolchiki/1748/": {
+    "title": "Колокольчик Православный №4",
+    "file": "catalog/kolokolchiki/1748/index.html"
+  },
+  "/catalog/kolokolchiki/1749/": {
+    "title": "Колокольчик Тройка №4",
+    "file": "catalog/kolokolchiki/1749/index.html"
+  },
+  "/catalog/kolokolchiki/1750/": {
+    "title": "Колокольчик Хохлома №5",
+    "file": "catalog/kolokolchiki/1750/index.html"
+  },
+  "/catalog/kolokolchiki/1751/": {
+    "title": "Колокольчик Москва №6",
+    "file": "catalog/kolokolchiki/1751/index.html"
+  },
+  "/catalog/kolokolchiki/1752/": {
+    "title": "Колокольчик Москва №5",
+    "file": "catalog/kolokolchiki/1752/index.html"
+  },
+  "/catalog/kolokolchiki/1753/": {
+    "title": "Колокольчик Ярославль №6",
+    "file": "catalog/kolokolchiki/1753/index.html"
+  },
+  "/catalog/kolokolchiki/1754/": {
+    "title": "Колокольчик Нижний Новгород №6",
+    "file": "catalog/kolokolchiki/1754/index.html"
+  },
+  "/catalog/kolokolchiki/1755/": {
+    "title": "Колокольчик Псков, Печоры, Изборск №6",
+    "file": "catalog/kolokolchiki/1755/index.html"
+  },
+  "/catalog/kolokolchiki/1756/": {
+    "title": "Колокольчик  Кострома №6",
+    "file": "catalog/kolokolchiki/1756/index.html"
+  },
+  "/catalog/kolokolchiki/1757/": {
+    "title": "Колокольчик Годеново №6",
+    "file": "catalog/kolokolchiki/1757/index.html"
+  },
+  "/catalog/kolokolchiki/1758/": {
+    "title": "Колокольчик Тула №6",
+    "file": "catalog/kolokolchiki/1758/index.html"
+  },
+  "/catalog/kolokolchiki/1759/": {
+    "title": "Колокольчик Ростов №6",
+    "file": "catalog/kolokolchiki/1759/index.html"
+  },
+  "/catalog/kolokolchiki/1760/": {
+    "title": "Колокольчик Рязань №6",
+    "file": "catalog/kolokolchiki/1760/index.html"
+  },
+  "/catalog/kolokolchiki/1761/": {
+    "title": "Колокольчик Воронеж №6",
+    "file": "catalog/kolokolchiki/1761/index.html"
+  },
+  "/catalog/kolokolchiki/1762/": {
+    "title": "Колокольчик Яга на гусе",
+    "file": "catalog/kolokolchiki/1762/index.html"
+  },
+  "/catalog/kolokolchiki/1763/": {
+    "title": "Колокольчик Жираф",
+    "file": "catalog/kolokolchiki/1763/index.html"
+  },
+  "/catalog/kolokolchiki/1764/": {
+    "title": "Колокольчик Домовой на коте",
+    "file": "catalog/kolokolchiki/1764/index.html"
+  },
+  "/catalog/kolokolchiki/1765/": {
+    "title": "Колокольчик Утюг большой",
+    "file": "catalog/kolokolchiki/1765/index.html"
+  },
+  "/catalog/kolokolchiki/1766/": {
+    "title": "Колокольчик Бегемот с лягушкой на носу",
+    "file": "catalog/kolokolchiki/1766/index.html"
+  },
+  "/catalog/kolokolchiki/1767/": {
+    "title": "Колокольчик Домовой с ключом",
+    "file": "catalog/kolokolchiki/1767/index.html"
+  },
+  "/catalog/kolokolchiki/1768/": {
+    "title": "Колокольчик Домовой с метлой",
+    "file": "catalog/kolokolchiki/1768/index.html"
+  },
+  "/catalog/kolokolchiki/1769/": {
+    "title": "Колокольчик Домовой с котом",
+    "file": "catalog/kolokolchiki/1769/index.html"
+  },
+  "/catalog/kolokolchiki/1770/": {
+    "title": "Колокольчик Бегемот на велике",
+    "file": "catalog/kolokolchiki/1770/index.html"
+  },
+  "/catalog/kolokolchiki/1771/": {
+    "title": "Колокольчик Телефон с руками",
+    "file": "catalog/kolokolchiki/1771/index.html"
+  },
+  "/catalog/kolokolchiki/1772/": {
+    "title": "Колокольчик Будильник",
+    "file": "catalog/kolokolchiki/1772/index.html"
+  },
+  "/catalog/kolokolchiki/1773/": {
+    "title": "Колокольчик Самовар Кутузовский (фигура)",
+    "file": "catalog/kolokolchiki/1773/index.html"
+  },
+  "/catalog/kolokolchiki/1774/": {
+    "title": "Колокольчик Утюг Ванька",
+    "file": "catalog/kolokolchiki/1774/index.html"
+  },
+  "/catalog/kolokolchiki/1775/": {
+    "title": "Колокольчик Бегемот парочка",
+    "file": "catalog/kolokolchiki/1775/index.html"
+  },
+  "/catalog/kolokolchiki/1776/": {
+    "title": "Колокольчик Леший",
+    "file": "catalog/kolokolchiki/1776/index.html"
+  },
+  "/catalog/kolokolchiki/1777/": {
+    "title": "Колокольчик Красавица с зеркалом большая",
+    "file": "catalog/kolokolchiki/1777/index.html"
+  },
+  "/catalog/kolokolchiki/1778/": {
+    "title": "Колокольчик Дракон",
+    "file": "catalog/kolokolchiki/1778/index.html"
+  },
+  "/catalog/kolokolchiki/1779/": {
+    "title": "Колокольчик Избушка на курьих ножках",
+    "file": "catalog/kolokolchiki/1779/index.html"
+  },
+  "/catalog/kolokolchiki/1780/": {
+    "title": "Колокольчик Ворона",
+    "file": "catalog/kolokolchiki/1780/index.html"
+  },
+  "/catalog/kolokolchiki/1781/": {
+    "title": "Колокольчик Чайник улыбка",
+    "file": "catalog/kolokolchiki/1781/index.html"
+  },
+  "/catalog/kolokolchiki/1782/": {
+    "title": "Колокольчик Чайник с ушами",
+    "file": "catalog/kolokolchiki/1782/index.html"
+  },
+  "/catalog/kolokolchiki/1783/": {
+    "title": "Колокольчик Кошка дама",
+    "file": "catalog/kolokolchiki/1783/index.html"
+  },
+  "/catalog/kolokolchiki/1784/": {
+    "title": "Колокольчик Жаба печальная",
+    "file": "catalog/kolokolchiki/1784/index.html"
+  },
+  "/catalog/kolokolchiki/1785/": {
+    "title": "Колокольчик Жаба веселая",
+    "file": "catalog/kolokolchiki/1785/index.html"
+  },
+  "/catalog/kolokolchiki/1786/": {
+    "title": "Колокольчик Лиса в сарафане",
+    "file": "catalog/kolokolchiki/1786/index.html"
+  },
+  "/catalog/kolokolchiki/1787/": {
+    "title": "Колокольчик Зайка дама",
+    "file": "catalog/kolokolchiki/1787/index.html"
+  },
+  "/catalog/kolokolchiki/1788/": {
+    "title": "Колокольчик Бегемот в юбке",
+    "file": "catalog/kolokolchiki/1788/index.html"
+  },
+  "/catalog/kolokolchiki/1789/": {
+    "title": "Колокольчик Уточка большая",
+    "file": "catalog/kolokolchiki/1789/index.html"
+  },
+  "/catalog/kolokolchiki/1790/": {
+    "title": "Колокольчик Бегемот с открытым ртом",
+    "file": "catalog/kolokolchiki/1790/index.html"
+  },
+  "/catalog/kolokolchiki/1791/": {
+    "title": "Колокольчик Бегемот хвост вверх",
+    "file": "catalog/kolokolchiki/1791/index.html"
+  },
+  "/catalog/kolokolchiki/1792/": {
+    "title": "Колокольчик Сова с совятами",
+    "file": "catalog/kolokolchiki/1792/index.html"
+  },
+  "/catalog/kolokolchiki/1793/": {
+    "title": "Колокольчик Медведь с бочкой меда",
+    "file": "catalog/kolokolchiki/1793/index.html"
+  },
+  "/catalog/kolokolchiki/1794/": {
+    "title": "Колокольчик Попугай на сундуке",
+    "file": "catalog/kolokolchiki/1794/index.html"
+  },
+  "/catalog/kolokolchiki/1795/": {
+    "title": "Колокольчик Лягушка стриптиз",
+    "file": "catalog/kolokolchiki/1795/index.html"
+  },
+  "/catalog/kolokolchiki/1796/": {
+    "title": "Колокольчик Лягушка вверх ногами",
+    "file": "catalog/kolokolchiki/1796/index.html"
+  },
+  "/catalog/kolokolchiki/1797/": {
+    "title": "Колокольчик Лягушка с мухой",
+    "file": "catalog/kolokolchiki/1797/index.html"
+  },
+  "/catalog/kolokolchiki/1798/": {
+    "title": "Колокольчик Лягушка с открытым ртом",
+    "file": "catalog/kolokolchiki/1798/index.html"
+  },
+  "/catalog/kolokolchiki/1799/": {
+    "title": "Колокольчик Лягушка палец вверх",
+    "file": "catalog/kolokolchiki/1799/index.html"
+  },
+  "/catalog/kolokolchiki/1800/": {
+    "title": "Колокольчик Лягушка в короне",
+    "file": "catalog/kolokolchiki/1800/index.html"
+  },
+  "/catalog/kolokolchiki/1801/": {
+    "title": "Колокольчик Лев царь",
+    "file": "catalog/kolokolchiki/1801/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1157/": {
+    "title": "Кошельковый оберег Акула для успеха в кошелек",
+    "file": "catalog/koshelkovye_oberegi/1157/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1158/": {
+    "title": "Кошельковый оберег Бык талисман",
+    "file": "catalog/koshelkovye_oberegi/1158/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1202/": {
+    "title": "Кошельковый оберег Мышь кошельковая",
+    "file": "catalog/koshelkovye_oberegi/1202/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1203/": {
+    "title": "Кошельковый оберег Мышь кошельковая на монете",
+    "file": "catalog/koshelkovye_oberegi/1203/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1204/": {
+    "title": "Кошельковый оберег Мышка с ложкой",
+    "file": "catalog/koshelkovye_oberegi/1204/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1205/": {
+    "title": "Кошельковый оберег Мышка с монетой",
+    "file": "catalog/koshelkovye_oberegi/1205/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1206/": {
+    "title": "Кошельковый оберег Мышка на подкове",
+    "file": "catalog/koshelkovye_oberegi/1206/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1207/": {
+    "title": "Кошельковый оберег Мышка на удачу",
+    "file": "catalog/koshelkovye_oberegi/1207/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1208/": {
+    "title": "Кошельковый оберег Мышка в ложке 1",
+    "file": "catalog/koshelkovye_oberegi/1208/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1209/": {
+    "title": "Кошельковый оберег Мышка в ложке 2",
+    "file": "catalog/koshelkovye_oberegi/1209/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1210/": {
+    "title": "Кошельковый оберег Ложка-загребушка",
+    "file": "catalog/koshelkovye_oberegi/1210/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1211/": {
+    "title": "Кошельковый оберег Ложка с монетой",
+    "file": "catalog/koshelkovye_oberegi/1211/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1212/": {
+    "title": "Кошельковый оберег Ложка-загребушка с монетами",
+    "file": "catalog/koshelkovye_oberegi/1212/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1213/": {
+    "title": "Кошельковый оберег Ложка-загребушка резная",
+    "file": "catalog/koshelkovye_oberegi/1213/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1214/": {
+    "title": "Кошельковый оберег Ложка-рубль",
+    "file": "catalog/koshelkovye_oberegi/1214/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1215/": {
+    "title": "Кошельковый оберег Ложка-доллар",
+    "file": "catalog/koshelkovye_oberegi/1215/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1216/": {
+    "title": "Кошельковый оберег Ложка-евро",
+    "file": "catalog/koshelkovye_oberegi/1216/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1217/": {
+    "title": "Кошельковый оберег Лягушка золотая",
+    "file": "catalog/koshelkovye_oberegi/1217/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1218/": {
+    "title": "Кошельковый оберег Жаба на монете миллион рублей",
+    "file": "catalog/koshelkovye_oberegi/1218/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1219/": {
+    "title": "Кошельковый оберег Денежная лягушка",
+    "file": "catalog/koshelkovye_oberegi/1219/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1220/": {
+    "title": "Кошельковый оберег Рыбка золотая",
+    "file": "catalog/koshelkovye_oberegi/1220/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1221/": {
+    "title": "Кошельковый оберег Подкова на счастье",
+    "file": "catalog/koshelkovye_oberegi/1221/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1222/": {
+    "title": "Кошельковый оберег Клевер удачи",
+    "file": "catalog/koshelkovye_oberegi/1222/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1223/": {
+    "title": "Кошельковый оберег Лопата для денег (круглая)",
+    "file": "catalog/koshelkovye_oberegi/1223/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1224/": {
+    "title": "Кошельковый оберег Лопата для денег (квадратная)",
+    "file": "catalog/koshelkovye_oberegi/1224/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1225/": {
+    "title": "Кошельковый оберег Лопата квадратная 2",
+    "file": "catalog/koshelkovye_oberegi/1225/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1226/": {
+    "title": "Кошельковый оберег Автодомовой",
+    "file": "catalog/koshelkovye_oberegi/1226/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1227/": {
+    "title": "Кошельковый оберег Доктор Айболит для здоровья в кошелек",
+    "file": "catalog/koshelkovye_oberegi/1227/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1228/": {
+    "title": "Кошельковый оберег Умная сова в кошелек",
+    "file": "catalog/koshelkovye_oberegi/1228/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1229/": {
+    "title": "Кошельковый оберег Домовой для порядка в доме",
+    "file": "catalog/koshelkovye_oberegi/1229/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1230/": {
+    "title": "Кошельковый оберег Глаз в кошелек от сглаза",
+    "file": "catalog/koshelkovye_oberegi/1230/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1231/": {
+    "title": "Кошельковый оберег Кролик в кошелек",
+    "file": "catalog/koshelkovye_oberegi/1231/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1232/": {
+    "title": "Кошельковый оберег Паук золотой в кошелек",
+    "file": "catalog/koshelkovye_oberegi/1232/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1233/": {
+    "title": "Кошельковый оберег Золотое руно",
+    "file": "catalog/koshelkovye_oberegi/1233/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1234/": {
+    "title": "Кошельковый оберег Лягушонок",
+    "file": "catalog/koshelkovye_oberegi/1234/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1235/": {
+    "title": "Кошельковый оберег Денежный мешок",
+    "file": "catalog/koshelkovye_oberegi/1235/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1236/": {
+    "title": "Кошельковый оберег Паучок",
+    "file": "catalog/koshelkovye_oberegi/1236/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1237/": {
+    "title": "Кошельковый оберег Летящая сова",
+    "file": "catalog/koshelkovye_oberegi/1237/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1238/": {
+    "title": "Кошельковый оберег Лопата круглая 2",
+    "file": "catalog/koshelkovye_oberegi/1238/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1239/": {
+    "title": "Кошельковый оберег Лопата квадратная 3",
+    "file": "catalog/koshelkovye_oberegi/1239/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1240/": {
+    "title": "Кошельковый оберег Кольцо счастья",
+    "file": "catalog/koshelkovye_oberegi/1240/index.html"
+  },
+  "/catalog/koshelkovye_oberegi/1241/": {
+    "title": "Кошельковый оберег Фиг",
+    "file": "catalog/koshelkovye_oberegi/1241/index.html"
+  },
+  "/catalog/krasnaya_nit/1162/": {
+    "title": "Стенд для амулетов \"Красная нить\" (размер 755 х 355мм)",
+    "file": "catalog/krasnaya_nit/1162/index.html"
+  },
+  "/catalog/krasnaya_nit/1325/": {
+    "title": "Красная нить \"Подкова на счастье\"",
+    "file": "catalog/krasnaya_nit/1325/index.html"
+  },
+  "/catalog/krasnaya_nit/1326/": {
+    "title": "Красная нить \"Снежинка\"",
+    "file": "catalog/krasnaya_nit/1326/index.html"
+  },
+  "/catalog/krasnaya_nit/1327/": {
+    "title": "Красная нить \"Кубик\"",
+    "file": "catalog/krasnaya_nit/1327/index.html"
+  },
+  "/catalog/krasnaya_nit/1328/": {
+    "title": "Красная нить \"Домовой\"",
+    "file": "catalog/krasnaya_nit/1328/index.html"
+  },
+  "/catalog/krasnaya_nit/1329/": {
+    "title": "Красная нить \"Глаз\"",
+    "file": "catalog/krasnaya_nit/1329/index.html"
+  },
+  "/catalog/krasnaya_nit/1330/": {
+    "title": "Красная нить \"Кролик\"",
+    "file": "catalog/krasnaya_nit/1330/index.html"
+  },
+  "/catalog/krasnaya_nit/1331/": {
+    "title": "Красная нить \"Сердце\"",
+    "file": "catalog/krasnaya_nit/1331/index.html"
+  },
+  "/catalog/krasnaya_nit/1332/": {
+    "title": "Красная нить \"Веточка\"",
+    "file": "catalog/krasnaya_nit/1332/index.html"
+  },
+  "/catalog/krasnaya_nit/1333/": {
+    "title": "Красная нить \"Сова\"",
+    "file": "catalog/krasnaya_nit/1333/index.html"
+  },
+  "/catalog/krasnaya_nit/1334/": {
+    "title": "Красная нить \"Мышка\"",
+    "file": "catalog/krasnaya_nit/1334/index.html"
+  },
+  "/catalog/krasnaya_nit/1335/": {
+    "title": "Красная нить \"Бесконечность\"",
+    "file": "catalog/krasnaya_nit/1335/index.html"
+  },
+  "/catalog/krasnaya_nit/1336/": {
+    "title": "Красная нить \"Морская звезда\"",
+    "file": "catalog/krasnaya_nit/1336/index.html"
+  },
+  "/catalog/krasnaya_nit/1337/": {
+    "title": "Красная нить \"Смайлик\"",
+    "file": "catalog/krasnaya_nit/1337/index.html"
+  },
+  "/catalog/krasnaya_nit/1338/": {
+    "title": "Красная нить \"Кошка\"",
+    "file": "catalog/krasnaya_nit/1338/index.html"
+  },
+  "/catalog/krasnaya_nit/1339/": {
+    "title": "Красная нить \"Бабочка\"",
+    "file": "catalog/krasnaya_nit/1339/index.html"
+  },
+  "/catalog/krasnaya_nit/1340/": {
+    "title": "Красная нить \"Совенок\"",
+    "file": "catalog/krasnaya_nit/1340/index.html"
+  },
+  "/catalog/krasnaya_nit/1341/": {
+    "title": "Красная нить \"Будда\"",
+    "file": "catalog/krasnaya_nit/1341/index.html"
+  },
+  "/catalog/krasnaya_nit/1342/": {
+    "title": "Красная нить \"Скрипичный ключ\"",
+    "file": "catalog/krasnaya_nit/1342/index.html"
+  },
+  "/catalog/krasnaya_nit/1343/": {
+    "title": "Красная нить \"Черепаха\"",
+    "file": "catalog/krasnaya_nit/1343/index.html"
+  },
+  "/catalog/krasnaya_nit/1344/": {
+    "title": "Красная нить \"Заяц\"",
+    "file": "catalog/krasnaya_nit/1344/index.html"
+  },
+  "/catalog/krasnaya_nit/1345/": {
+    "title": "Красная нить \"Слон\"",
+    "file": "catalog/krasnaya_nit/1345/index.html"
+  },
+  "/catalog/krasnaya_nit/1346/": {
+    "title": "Красная нить \"Дерево жизни\"",
+    "file": "catalog/krasnaya_nit/1346/index.html"
+  },
+  "/catalog/krasnaya_nit/1347/": {
+    "title": "Красная нить \"Love\"",
+    "file": "catalog/krasnaya_nit/1347/index.html"
+  },
+  "/catalog/krasnaya_nit/1348/": {
+    "title": "Красная нить \"Ключик\"",
+    "file": "catalog/krasnaya_nit/1348/index.html"
+  },
+  "/catalog/krasnaya_nit/1349/": {
+    "title": "Красная нить \"Пасифик\"",
+    "file": "catalog/krasnaya_nit/1349/index.html"
+  },
+  "/catalog/krasnaya_nit/1350/": {
+    "title": "Красная нить \"Звезда",
+    "file": "catalog/krasnaya_nit/1350/index.html"
+  },
+  "/catalog/krasnaya_nit/1351/": {
+    "title": "Красная нить \"Рука Фатимы\"",
+    "file": "catalog/krasnaya_nit/1351/index.html"
+  },
+  "/catalog/krasnaya_nit/1352/": {
+    "title": "Красная нить \"Клевер\"",
+    "file": "catalog/krasnaya_nit/1352/index.html"
+  },
+  "/catalog/krasnaya_nit/1353/": {
+    "title": "Красная нить \"Штурвал\"",
+    "file": "catalog/krasnaya_nit/1353/index.html"
+  },
+  "/catalog/krasnaya_nit/1354/": {
+    "title": "Красная нить \"Узелок\"",
+    "file": "catalog/krasnaya_nit/1354/index.html"
+  },
+  "/catalog/krasnaya_nit/1355/": {
+    "title": "Красная нить \"Ангел\"",
+    "file": "catalog/krasnaya_nit/1355/index.html"
+  },
+  "/catalog/krasnaya_nit/1356/": {
+    "title": "Красная нить \"Акула\"",
+    "file": "catalog/krasnaya_nit/1356/index.html"
+  },
+  "/catalog/krasnaya_nit/1357/": {
+    "title": "Красная нить \"Череп\"",
+    "file": "catalog/krasnaya_nit/1357/index.html"
+  },
+  "/catalog/krasnaya_nit/1358/": {
+    "title": "Красная нить \"Медвежонок\"",
+    "file": "catalog/krasnaya_nit/1358/index.html"
+  },
+  "/catalog/krasnaya_nit/1359/": {
+    "title": "Красная нить \"Шарик с сердечками\"",
+    "file": "catalog/krasnaya_nit/1359/index.html"
+  },
+  "/catalog/krasnaya_nit/1360/": {
+    "title": "Красная нить \"Бочонок Love\"",
+    "file": "catalog/krasnaya_nit/1360/index.html"
+  },
+  "/catalog/krasnaya_nit/1361/": {
+    "title": "Красная нить \"Кубик Love\"",
+    "file": "catalog/krasnaya_nit/1361/index.html"
+  },
+  "/catalog/monetnye_zagotovki/1167/": {
+    "title": "Монетные заготовки для аттракционов",
+    "file": "catalog/monetnye_zagotovki/1167/index.html"
+  },
+  "/catalog/monetnye_zagotovki/1909/": {
+    "title": "Монетные заготовки 25 мм",
+    "file": "catalog/monetnye_zagotovki/1909/index.html"
+  },
+  "/catalog/monetnye_zagotovki/1910/": {
+    "title": "Монетные заготовки 30 мм",
+    "file": "catalog/monetnye_zagotovki/1910/index.html"
+  },
+  "/catalog/monetnye_zagotovki/1911/": {
+    "title": "Монетные заготовки 32 мм",
+    "file": "catalog/monetnye_zagotovki/1911/index.html"
+  },
+  "/catalog/obereg/1168/": {
+    "title": "Оберег Дерево жизни",
+    "file": "catalog/obereg/1168/index.html"
+  },
+  "/catalog/obereg/1169/": {
+    "title": "Оберег Амулет царя Соломона",
+    "file": "catalog/obereg/1169/index.html"
+  },
+  "/catalog/obereg/1433/": {
+    "title": "Оберег Алатырь",
+    "file": "catalog/obereg/1433/index.html"
+  },
+  "/catalog/obereg/1434/": {
+    "title": "Оберег Анкх",
+    "file": "catalog/obereg/1434/index.html"
+  },
+  "/catalog/obereg/1435/": {
+    "title": "Оберег Астромандала",
+    "file": "catalog/obereg/1435/index.html"
+  },
+  "/catalog/obereg/1436/": {
+    "title": "Оберег Звезда Хаоса",
+    "file": "catalog/obereg/1436/index.html"
+  },
+  "/catalog/obereg/1437/": {
+    "title": "Оберег Змеиный щит",
+    "file": "catalog/obereg/1437/index.html"
+  },
+  "/catalog/obereg/1438/": {
+    "title": "Оберег Знак огня",
+    "file": "catalog/obereg/1438/index.html"
+  },
+  "/catalog/obereg/1439/": {
+    "title": "Оберег Инь-Янь ж.",
+    "file": "catalog/obereg/1439/index.html"
+  },
+  "/catalog/obereg/1440/": {
+    "title": "Оберег Инь-Янь м.",
+    "file": "catalog/obereg/1440/index.html"
+  },
+  "/catalog/obereg/1441/": {
+    "title": "Оберег Кельтская Пентаграмма",
+    "file": "catalog/obereg/1441/index.html"
+  },
+  "/catalog/obereg/1442/": {
+    "title": "Оберег Крест с лилиями",
+    "file": "catalog/obereg/1442/index.html"
+  },
+  "/catalog/obereg/1443/": {
+    "title": "Оберег Крест Тамплиеров",
+    "file": "catalog/obereg/1443/index.html"
+  },
+  "/catalog/obereg/1444/": {
+    "title": "Оберег Кханда",
+    "file": "catalog/obereg/1444/index.html"
+  },
+  "/catalog/obereg/1445/": {
+    "title": "Оберег Летучая мышь",
+    "file": "catalog/obereg/1445/index.html"
+  },
+  "/catalog/obereg/1446/": {
+    "title": "Оберег Месяц желаний",
+    "file": "catalog/obereg/1446/index.html"
+  },
+  "/catalog/obereg/1447/": {
+    "title": "Оберег Молот Тора",
+    "file": "catalog/obereg/1447/index.html"
+  },
+  "/catalog/obereg/1448/": {
+    "title": "Оберег Пантакль Тритема",
+    "file": "catalog/obereg/1448/index.html"
+  },
+  "/catalog/obereg/1449/": {
+    "title": "Оберег Пасифик",
+    "file": "catalog/obereg/1449/index.html"
+  },
+  "/catalog/obereg/1450/": {
+    "title": "Оберег Паук",
+    "file": "catalog/obereg/1450/index.html"
+  },
+  "/catalog/obereg/1451/": {
+    "title": "Оберег Символ Рода",
+    "file": "catalog/obereg/1451/index.html"
+  },
+  "/catalog/obereg/1452/": {
+    "title": "Оберег Солнце",
+    "file": "catalog/obereg/1452/index.html"
+  },
+  "/catalog/obereg/1453/": {
+    "title": "Оберег Сюрикен",
+    "file": "catalog/obereg/1453/index.html"
+  },
+  "/catalog/obereg/1454/": {
+    "title": "Оберег Топор Зевса",
+    "file": "catalog/obereg/1454/index.html"
+  },
+  "/catalog/obereg/1455/": {
+    "title": "Оберег Трефот",
+    "file": "catalog/obereg/1455/index.html"
+  },
+  "/catalog/obereg/1456/": {
+    "title": "Оберег Трискелис",
+    "file": "catalog/obereg/1456/index.html"
+  },
+  "/catalog/obereg/1457/": {
+    "title": "Оберег КОРЕЙСКАЯ СЧАСТЛИВАЯ МОНЕТКА",
+    "file": "catalog/obereg/1457/index.html"
+  },
+  "/catalog/obereg/1458/": {
+    "title": "Оберег Матрона",
+    "file": "catalog/obereg/1458/index.html"
+  },
+  "/catalog/obereg/1459/": {
+    "title": "Оберег Дерево жизни №2",
+    "file": "catalog/obereg/1459/index.html"
+  },
+  "/catalog/obereg/1460/": {
+    "title": "Оберег Кацудей",
+    "file": "catalog/obereg/1460/index.html"
+  },
+  "/catalog/obereg/1461/": {
+    "title": "Оберег Хси-хси",
+    "file": "catalog/obereg/1461/index.html"
+  },
+  "/catalog/obereg/1462/": {
+    "title": "Оберег Хранитель времени",
+    "file": "catalog/obereg/1462/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1170/": {
+    "title": "Короб для продажи именных оберегов",
+    "file": "catalog/oborudovanie_dlya_torgovli/1170/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1171/": {
+    "title": "Стенд для амулетов \"Красная нить\"",
+    "file": "catalog/oborudovanie_dlya_torgovli/1171/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1201/": {
+    "title": "Кошельковый оберег Стенд для кошельковых амулетов",
+    "file": "catalog/oborudovanie_dlya_torgovli/1201/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1301/": {
+    "title": "Стенд для булавок",
+    "file": "catalog/oborudovanie_dlya_torgovli/1301/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1432/": {
+    "title": "Оберег Стенд для амулетов и оберегов",
+    "file": "catalog/oborudovanie_dlya_torgovli/1432/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1544/": {
+    "title": "Комплект женских именных монет (50шт) стенд в комплект не входит",
+    "file": "catalog/oborudovanie_dlya_torgovli/1544/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1545/": {
+    "title": "Комплект мужских именных монет (50шт) стенд в комплект не входит",
+    "file": "catalog/oborudovanie_dlya_torgovli/1545/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1547/": {
+    "title": "Стенд для продажи женских именных амулетов",
+    "file": "catalog/oborudovanie_dlya_torgovli/1547/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1548/": {
+    "title": "Стенд для продажи мужских именных амулетов",
+    "file": "catalog/oborudovanie_dlya_torgovli/1548/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1587/": {
+    "title": "Комплект мужских именных брелков (50шт) стенд в комплект не входит",
+    "file": "catalog/oborudovanie_dlya_torgovli/1587/index.html"
+  },
+  "/catalog/oborudovanie_dlya_torgovli/1629/": {
+    "title": "Комплект женских именных брелков (50шт) стенд в комплект не входит",
+    "file": "catalog/oborudovanie_dlya_torgovli/1629/index.html"
+  },
+  "/catalog/runy/1159/": {
+    "title": "Скандинавская руна Альгиз",
+    "file": "catalog/runy/1159/index.html"
+  },
+  "/catalog/runy/1160/": {
+    "title": "Славянская руна Алатырь",
+    "file": "catalog/runy/1160/index.html"
+  },
+  "/catalog/runy/1392/": {
+    "title": "Славянская руна Мир",
+    "file": "catalog/runy/1392/index.html"
+  },
+  "/catalog/runy/1393/": {
+    "title": "Славянская руна Чернобог",
+    "file": "catalog/runy/1393/index.html"
+  },
+  "/catalog/runy/1394/": {
+    "title": "Славянская руна Радуга",
+    "file": "catalog/runy/1394/index.html"
+  },
+  "/catalog/runy/1395/": {
+    "title": "Славянская руна Нужда",
+    "file": "catalog/runy/1395/index.html"
+  },
+  "/catalog/runy/1396/": {
+    "title": "Славянская руна Крада",
+    "file": "catalog/runy/1396/index.html"
+  },
+  "/catalog/runy/1397/": {
+    "title": "Славянская руна Треба",
+    "file": "catalog/runy/1397/index.html"
+  },
+  "/catalog/runy/1398/": {
+    "title": "Славянская руна Сила",
+    "file": "catalog/runy/1398/index.html"
+  },
+  "/catalog/runy/1399/": {
+    "title": "Славянская руна Ветер",
+    "file": "catalog/runy/1399/index.html"
+  },
+  "/catalog/runy/1400/": {
+    "title": "Славянская руна Берегиня",
+    "file": "catalog/runy/1400/index.html"
+  },
+  "/catalog/runy/1401/": {
+    "title": "Славянская руна Уд",
+    "file": "catalog/runy/1401/index.html"
+  },
+  "/catalog/runy/1402/": {
+    "title": "Славянская руна Леля",
+    "file": "catalog/runy/1402/index.html"
+  },
+  "/catalog/runy/1403/": {
+    "title": "Славянская руна Рок",
+    "file": "catalog/runy/1403/index.html"
+  },
+  "/catalog/runy/1404/": {
+    "title": "Славянская руна Опора",
+    "file": "catalog/runy/1404/index.html"
+  },
+  "/catalog/runy/1405/": {
+    "title": "Славянская руна Даждьбог",
+    "file": "catalog/runy/1405/index.html"
+  },
+  "/catalog/runy/1406/": {
+    "title": "Славянская руна Перун",
+    "file": "catalog/runy/1406/index.html"
+  },
+  "/catalog/runy/1407/": {
+    "title": "Славянская руна Есть",
+    "file": "catalog/runy/1407/index.html"
+  },
+  "/catalog/runy/1408/": {
+    "title": "Славянская руна Исток",
+    "file": "catalog/runy/1408/index.html"
+  },
+  "/catalog/runy/1409/": {
+    "title": "Скандинавская руна Феху",
+    "file": "catalog/runy/1409/index.html"
+  },
+  "/catalog/runy/1410/": {
+    "title": "Скандинавская руна Уруз",
+    "file": "catalog/runy/1410/index.html"
+  },
+  "/catalog/runy/1411/": {
+    "title": "Скандинавская руна Турисаз",
+    "file": "catalog/runy/1411/index.html"
+  },
+  "/catalog/runy/1412/": {
+    "title": "Скандинавская руна Ансуз",
+    "file": "catalog/runy/1412/index.html"
+  },
+  "/catalog/runy/1413/": {
+    "title": "Скандинавская руна Райдо",
+    "file": "catalog/runy/1413/index.html"
+  },
+  "/catalog/runy/1414/": {
+    "title": "Скандинавская руна Кано",
+    "file": "catalog/runy/1414/index.html"
+  },
+  "/catalog/runy/1415/": {
+    "title": "Скандинавская руна Гебо",
+    "file": "catalog/runy/1415/index.html"
+  },
+  "/catalog/runy/1416/": {
+    "title": "Скандинавская руна Вуньо",
+    "file": "catalog/runy/1416/index.html"
+  },
+  "/catalog/runy/1417/": {
+    "title": "Скандинавская руна Хагалаз",
+    "file": "catalog/runy/1417/index.html"
+  },
+  "/catalog/runy/1418/": {
+    "title": "Скандинавская руна Наутиз",
+    "file": "catalog/runy/1418/index.html"
+  },
+  "/catalog/runy/1419/": {
+    "title": "Скандинавская руна Иса",
+    "file": "catalog/runy/1419/index.html"
+  },
+  "/catalog/runy/1420/": {
+    "title": "Скандинавская руна Йера",
+    "file": "catalog/runy/1420/index.html"
+  },
+  "/catalog/runy/1421/": {
+    "title": "Скандинавская руна Эйваз",
+    "file": "catalog/runy/1421/index.html"
+  },
+  "/catalog/runy/1422/": {
+    "title": "Скандинавская руна Перт",
+    "file": "catalog/runy/1422/index.html"
+  },
+  "/catalog/runy/1423/": {
+    "title": "Скандинавская руна Соулу",
+    "file": "catalog/runy/1423/index.html"
+  },
+  "/catalog/runy/1424/": {
+    "title": "Скандинавская руна Тейваз",
+    "file": "catalog/runy/1424/index.html"
+  },
+  "/catalog/runy/1425/": {
+    "title": "Скандинавская руна Беркана",
+    "file": "catalog/runy/1425/index.html"
+  },
+  "/catalog/runy/1426/": {
+    "title": "Скандинавская руна Эваз",
+    "file": "catalog/runy/1426/index.html"
+  },
+  "/catalog/runy/1427/": {
+    "title": "Скандинавская руна Манназ",
+    "file": "catalog/runy/1427/index.html"
+  },
+  "/catalog/runy/1428/": {
+    "title": "Скандинавская руна Лагуз",
+    "file": "catalog/runy/1428/index.html"
+  },
+  "/catalog/runy/1429/": {
+    "title": "Скандинавская руна Ингуз",
+    "file": "catalog/runy/1429/index.html"
+  },
+  "/catalog/runy/1430/": {
+    "title": "Скандинавская руна Отал",
+    "file": "catalog/runy/1430/index.html"
+  },
+  "/catalog/runy/1431/": {
+    "title": "Скандинавская руна Дагаз",
+    "file": "catalog/runy/1431/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1163/": {
+    "title": "Сувенирная литая монета КОПЕЙКА РУБЛЬ БЕРЕЖЕТ",
+    "file": "catalog/suvenirnye_monety_lite/1163/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1164/": {
+    "title": "Сувенирная литая монета 1 000 000 рублей",
+    "file": "catalog/suvenirnye_monety_lite/1164/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1242/": {
+    "title": "Сувенирная литая монета ДА-НЕТ (вариант 1)",
+    "file": "catalog/suvenirnye_monety_lite/1242/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1243/": {
+    "title": "Сувенирная литая монета ДА-НЕТ (вариант 2)",
+    "file": "catalog/suvenirnye_monety_lite/1243/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1244/": {
+    "title": "Сувенирная литая монета 1 000 000$",
+    "file": "catalog/suvenirnye_monety_lite/1244/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1245/": {
+    "title": "Сувенирная литая монета ПИТЬ-НЕ ПИТЬ (вариант 1)",
+    "file": "catalog/suvenirnye_monety_lite/1245/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1246/": {
+    "title": "Сувенирная литая монета1 РУБЛЬ НА СЧАСТЬЕ",
+    "file": "catalog/suvenirnye_monety_lite/1246/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1247/": {
+    "title": "Сувенирная литая монета СЧАСТЛИВАЯ МОНЕТА",
+    "file": "catalog/suvenirnye_monety_lite/1247/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1248/": {
+    "title": "Сувенирная литая монета СЧАСТЛИВЫЙ ПЯТАК (вариант 1)",
+    "file": "catalog/suvenirnye_monety_lite/1248/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1249/": {
+    "title": "Сувенирная литая монета СЧАСТЛИВЫЙ ПЯТАК (вариант 2)",
+    "file": "catalog/suvenirnye_monety_lite/1249/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1250/": {
+    "title": "Сувенирная литая монета СЧАСТЛИВЫЙ РУБЛЬ",
+    "file": "catalog/suvenirnye_monety_lite/1250/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1251/": {
+    "title": "Сувенирная литая монета ТОТ САМЫЙ ПЯТАК ПОД ПЯТКУ",
+    "file": "catalog/suvenirnye_monety_lite/1251/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1252/": {
+    "title": "Сувенирная литая монета ПИТЬ-НЕ ПИТЬ (вариант 2), диаметр 22мм",
+    "file": "catalog/suvenirnye_monety_lite/1252/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1253/": {
+    "title": "Сувенирная литая монета ДА-НЕТ (вариант 3)",
+    "file": "catalog/suvenirnye_monety_lite/1253/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1254/": {
+    "title": "Сувенирная литая монета ПИТЬ- ТОЧНО ПИТЬ",
+    "file": "catalog/suvenirnye_monety_lite/1254/index.html"
+  },
+  "/catalog/suvenirnye_monety_lite/1255/": {
+    "title": "Сувенирная литая монета 1 СЧАСТЛИВЫЙ РУБЛЬ",
+    "file": "catalog/suvenirnye_monety_lite/1255/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1166/": {
+    "title": "Сувенирная штампованная монета 7 Фартовых рублей",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1166/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1256/": {
+    "title": "Сувенирная штампованная монета ПУТИН В.В.",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1256/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1257/": {
+    "title": "Сувенирная штампованная монета СТАЛИН И.В.",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1257/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1258/": {
+    "title": "Сувенирная штампованная монета ПУТИН В.В. - СТАЛИН И.В.",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1258/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1259/": {
+    "title": "Сувенирная штампованная монета ОРЕЛ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1259/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1260/": {
+    "title": "Сувенирная штампованная монета СЧАСТЛИВАЯ МОНЕТА 777",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1260/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1261/": {
+    "title": "Сувенирная штампованная монета 7 СЧАСТЛИВЫХ РУБЛЕЙ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1261/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1262/": {
+    "title": "Сувенирная штампованная монета 1 СЧАСТЛИВЫЙ РУБЛЬ (Баба Яга)",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1262/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1263/": {
+    "title": "Сувенирная штампованная монета 1 СЧАСТЛИВЫЙ РУБЛЬ (Орел)",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1263/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1264/": {
+    "title": "Сувенирная штампованная монета СЧАСТЛИВАЯ МОНЕТА",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1264/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1265/": {
+    "title": "Сувенирная штампованная монета 1 000 000 РУБЛЕЙ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1265/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1266/": {
+    "title": "Сувенирная штампованная монета СЧАСТЛИВЫЙ ПЯТАК",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1266/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1267/": {
+    "title": "Сувенирная штампованная монета ТОТ САМЫЙ ПЯТАК",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1267/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1268/": {
+    "title": "Сувенирная штампованная монета КОПЕЙКА РУБЛЬ БЕРЕЖЕТ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1268/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1269/": {
+    "title": "Сувенирная штампованная монета ДА-НЕТ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1269/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1270/": {
+    "title": "Сувенирная штампованная монета ДА-НЕТ с короной",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1270/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1271/": {
+    "title": "Сувенирная штампованная монета РАБОТАТЬ-ЖДАТЬ БОГАТСТВА",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1271/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1272/": {
+    "title": "Сувенирная штампованная монета ПИТЬ-ТОЧНО ПИТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1272/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1273/": {
+    "title": "Сувенирная штампованная монета ПИТЬ-ТОЧНО ПИТЬ №2",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1273/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1274/": {
+    "title": "Сувенирная штампованная монета ПИТЬ-НЕ ПИТЬ №3",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1274/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1275/": {
+    "title": "Сувенирная штампованная монета ПИТЬ-НЕ ПИТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1275/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1276/": {
+    "title": "Сувенирная штампованная монета ДАТЬ-НЕ ДАТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1276/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1277/": {
+    "title": "Сувенирная штампованная монета ЖРАТЬ-НЕ ЖРАТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1277/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1278/": {
+    "title": "Сувенирная штампованная монета ПОВЕЗЕТ-НЕ ПОВЕЗЕТ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1278/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1279/": {
+    "title": "Сувенирная штампованная монета 1 МИЛЛИОН ДОЛЛАРОВ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1279/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1280/": {
+    "title": "Сувенирная штампованная монета ЛЮБИТ-НЕ ЛЮБИТ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1280/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1281/": {
+    "title": "Сувенирная штампованная монета 3 СТАБИЛЬНЫХ РУБЛЯ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1281/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1282/": {
+    "title": "Сувенирная штампованная монета НЕРАЗМЕННЫЙ ПЯТАК",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1282/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1283/": {
+    "title": "Сувенирная штампованная монета ВОДОЧКА-СЕЛЕДОЧКА",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1283/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1284/": {
+    "title": "Сувенирная штампованная монета 1 ФАРТОВЫЙ РУБЛЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1284/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1285/": {
+    "title": "Сувенирная штампованная монета АНТИКРИЗИСНЫЙ ЧЕРВОНЕЦ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1285/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1286/": {
+    "title": "Сувенирная штампованная монета ВЕЗУЧАЯ ТРЕШКА",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1286/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1287/": {
+    "title": "Сувенирная штампованная монета ВЕЗУЧАЯ ТРЕШКА",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1287/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1288/": {
+    "title": "Сувенирная штампованная монета 7 ФАРТОВЫХ РУБЛЕЙ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1288/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1289/": {
+    "title": "Сувенирная штампованная монета 1 ФИГ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1289/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1290/": {
+    "title": "Сувенирная штампованная монета СЧАСТЛИВЫЙ ПЯТАК",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1290/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1291/": {
+    "title": "Сувенирная штампованная монета СЧАСТЛИВЫЙ ПЯТАК",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1291/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1292/": {
+    "title": "Сувенирная штампованная монета ПИТЬ-ТОЧНО ПИТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1292/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1293/": {
+    "title": "Сувенирная штампованная монета ПИТЬ-НЕ ПИТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1293/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1294/": {
+    "title": "Сувенирная штампованная монета КУРИТЬ-НЕ КУРИТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1294/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1295/": {
+    "title": "Сувенирная штампованная монета SEX-ОБЛОМ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1295/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1296/": {
+    "title": "Сувенирная штампованная монета УДАЧА",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1296/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1297/": {
+    "title": "Сувенирная штампованная монета Счастливый пятак (Свинья)",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1297/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1298/": {
+    "title": "Сувенирная штампованная монета ДА-НЕТ (Вопрос-ответ)",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1298/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1299/": {
+    "title": "Сувенирная штампованная монета БИТКОИН",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1299/index.html"
+  },
+  "/catalog/suvenirnye_monety_shtampovanny/1300/": {
+    "title": "Сувенирная штампованная монета НЕ ПИТЬ — ТОЧНО ПИТЬ",
+    "file": "catalog/suvenirnye_monety_shtampovanny/1300/index.html"
+  },
+  "/articles/biznes-sovety/5-pravil-nastroyki-onlayn-konsultanta-dlya-internet-magazina/": {
+    "title": "5 правил настройки онлайн-консультанта для интернет-магазина",
+    "file": "articles/biznes-sovety/5-pravil-nastroyki-onlayn-konsultanta-dlya-internet-magazina/index.html"
+  },
+  "/articles/biznes-sovety/8-sposobov-uvelichit-proizvoditelnost-sayta-na-1s-bitriks/": {
+    "title": "8 способов увеличить производительность сайта на 1С-Битрикс",
+    "file": "articles/biznes-sovety/8-sposobov-uvelichit-proizvoditelnost-sayta-na-1s-bitriks/index.html"
+  },
+  "/articles/biznes-sovety/chto-uchityvat-esli-vy-sobralis-sdelat-v-svoyem-magazine-samye-nizkie-tseny-v-gorode/": {
+    "title": "Что учитывать, если вы собрались сделать в своём магазине самые низкие цены в городе",
+    "file": "articles/biznes-sovety/chto-uchityvat-esli-vy-sobralis-sdelat-v-svoyem-magazine-samye-nizkie-tseny-v-gorode/index.html"
+  },
+  "/articles/elektronnaya-kommertsiya/aspro-optimus-bystryy-internet-magazin-dlya-lyubykh-tovarov/": {
+    "title": "Аспро: Оптимус – быстрый интернет-магазин для любых товаров",
+    "file": "articles/elektronnaya-kommertsiya/aspro-optimus-bystryy-internet-magazin-dlya-lyubykh-tovarov/index.html"
+  },
+  "/articles/elektronnaya-kommertsiya/kak-proverit-gotov-li-vash-sayt-k-zapusku/": {
+    "title": "Как проверить, готов ли ваш сайт к запуску",
+    "file": "articles/elektronnaya-kommertsiya/kak-proverit-gotov-li-vash-sayt-k-zapusku/index.html"
+  },
+  "/articles/elektronnaya-kommertsiya/kakoy-dolzhna-byt-sistema-rezervnogo-kopirovaniya/": {
+    "title": "Какой должна быть система резервного копирования?",
+    "file": "articles/elektronnaya-kommertsiya/kakoy-dolzhna-byt-sistema-rezervnogo-kopirovaniya/index.html"
+  },
+  "/articles/povyshenie-prodazh/kak-uvelichit-prodazhi-na-30-s-pomoshchyu-triggernykh-rassylok/": {
+    "title": "Как увеличить продажи на 30% с помощью триггерных рассылок",
+    "file": "articles/povyshenie-prodazh/kak-uvelichit-prodazhi-na-30-s-pomoshchyu-triggernykh-rassylok/index.html"
+  },
+  "/articles/testovyy-razdel/kak-sokratit-vremya-na-vystavlenie-schetov-v-20-raz/": {
+    "title": "Как сократить время на выставление счетов в 20 раз",
+    "file": "articles/testovyy-razdel/kak-sokratit-vremya-na-vystavlenie-schetov-v-20-raz/index.html"
+  },
+  "/articles/testovyy-razdel/na-chto-obrashchat-vnimanie-malomu-biznesu-pri-vybore-crm-sistemy/": {
+    "title": "На что обращать внимание малому бизнесу при выборе CRM-системы",
+    "file": "articles/testovyy-razdel/na-chto-obrashchat-vnimanie-malomu-biznesu-pri-vybore-crm-sistemy/index.html"
+  },
+  "/blog/": {
+    "title": "Истории маленьких вещей",
+    "file": "blog/index.html"
+  },
+  "/company/": {
+    "title": "О компании",
+    "file": "company/index.html"
+  },
+  "/company/docs/": {
+    "title": "Документы",
+    "file": "company/docs/index.html"
+  },
+  "/company/docs/123123/": {
+    "title": "Лицензия на деятельность по защите информации",
+    "file": "company/docs/123123/index.html"
+  },
+  "/company/docs/litsenziya-na-okazanie-uslug/": {
+    "title": "Лицензия на оказание услуг",
+    "file": "company/docs/litsenziya-na-okazanie-uslug/index.html"
+  },
+  "/company/docs/razreshenie-na-okhotu-na-dikikh-zverey-i-ptits/": {
+    "title": "Лучший автодилер 2017 года",
+    "file": "company/docs/razreshenie-na-okhotu-na-dikikh-zverey-i-ptits/index.html"
+  },
+  "/company/docs/sertifikat-sootvetstviya2/": {
+    "title": "Сертификат соответствия",
+    "file": "company/docs/sertifikat-sootvetstviya2/index.html"
+  },
+  "/company/faq/": {
+    "title": "Вопросы и ответы",
+    "file": "company/faq/index.html"
+  },
+  "/company/licenses/": {
+    "title": "Лицензии и сертификаты",
+    "file": "company/licenses/index.html"
+  },
+  "/company/licenses/litsenziya-na-okazanie-uslug/": {
+    "title": "Лицензия на оказание услуг",
+    "file": "company/licenses/litsenziya-na-okazanie-uslug/index.html"
+  },
+  "/company/licenses/razreshenie-na-lovlyu-ryby/": {
+    "title": "Разрешение на ловлю рыбы в Московской области",
+    "file": "company/licenses/razreshenie-na-lovlyu-ryby/index.html"
+  },
+  "/company/licenses/razreshenie-na-okhotu-na-dikikh-zverey-i-ptits/": {
+    "title": "Разрешение на охоту на диких зверей и птиц",
+    "file": "company/licenses/razreshenie-na-okhotu-na-dikikh-zverey-i-ptits/index.html"
+  },
+  "/company/licenses/razreshenie-na-upravlenie-transportnym-sredstvom-voditelskaya-litsenziya-/": {
+    "title": "Разрешение на управление транспортным средством",
+    "file": "company/licenses/razreshenie-na-upravlenie-transportnym-sredstvom-voditelskaya-litsenziya-/index.html"
+  },
+  "/company/licenses/sertifikat-pozharnoy-bezopasnosti/": {
+    "title": "Сертификат пожарной безопасности",
+    "file": "company/licenses/sertifikat-pozharnoy-bezopasnosti/index.html"
+  },
+  "/company/licenses/sertifikat-sootvetstviya2/": {
+    "title": "Сертификат соответствия",
+    "file": "company/licenses/sertifikat-sootvetstviya2/index.html"
+  },
+  "/company/licenses/svidetelstvo-o-gosudarstvennoy-registratsii/": {
+    "title": "Свидетельство о государственной регистрации",
+    "file": "company/licenses/svidetelstvo-o-gosudarstvennoy-registratsii/index.html"
+  },
+  "/company/news/": {
+    "title": "Новости",
+    "file": "company/news/index.html"
+  },
+  "/company/news/darim_skidki_i_podarki_v_chest_dnya_rozhdeniya_nashey_kompanii/": {
+    "title": "Дарим скидки и подарки в честь дня рождения нашей компании!",
+    "file": "company/news/darim_skidki_i_podarki_v_chest_dnya_rozhdeniya_nashey_kompanii/index.html"
+  },
+  "/company/news/novaya_kollektsiya_odezhdy_osen_zima_2019_uzhe_v_prodazhe/": {
+    "title": "Новая коллекция одежды осень-зима 2019 уже в продаже!",
+    "file": "company/news/novaya_kollektsiya_odezhdy_osen_zima_2019_uzhe_v_prodazhe/index.html"
+  },
+  "/company/news/otkryli_novyy_magazin_v_moskve/": {
+    "title": "Открыли новый магазин в Москве",
+    "file": "company/news/otkryli_novyy_magazin_v_moskve/index.html"
+  },
+  "/company/news/prezentatsiya_novogo_smartfona_nika_v_moskve/": {
+    "title": "Презентация нового смартфона Nika в Москве",
+    "file": "company/news/prezentatsiya_novogo_smartfona_nika_v_moskve/index.html"
+  },
+  "/company/news/zapuskaem_koleso_fortuny_kruti_i_poluchay_prizy/": {
+    "title": "Запускаем колесо фортуны! Крути и получай призы",
+    "file": "company/news/zapuskaem_koleso_fortuny_kruti_i_poluchay_prizy/index.html"
+  },
+  "/company/partners/": {
+    "title": "Партнеры",
+    "file": "company/partners/index.html"
+  },
+  "/company/partners/bitriks24/": {
+    "title": "Business Web",
+    "file": "company/partners/bitriks24/index.html"
+  },
+  "/company/partners/bitrix24/": {
+    "title": "Битрикс24",
+    "file": "company/partners/bitrix24/index.html"
+  },
+  "/company/partners/flowlu/": {
+    "title": "Flowlu",
+    "file": "company/partners/flowlu/index.html"
+  },
+  "/company/partners/partner-5/": {
+    "title": "ООО «Кибервац»",
+    "file": "company/partners/partner-5/index.html"
+  },
+  "/company/partners/partner-6/": {
+    "title": "ООО «Аспро»",
+    "file": "company/partners/partner-6/index.html"
+  },
+  "/company/partners/reddock/": {
+    "title": "RedDock",
+    "file": "company/partners/reddock/index.html"
+  },
+  "/company/requisites/": {
+    "title": "Реквизиты",
+    "file": "company/requisites/index.html"
+  },
+  "/company/reviews/": {
+    "title": "Оставить свой отзыв",
+    "file": "company/reviews/index.html"
+  },
+  "/company/staff/": {
+    "title": "Сотрудники",
+    "file": "company/staff/index.html"
+  },
+  "/company/staff/aleksandr-beker/": {
+    "title": "Александр Бекер",
+    "file": "company/staff/aleksandr-beker/index.html"
+  },
+  "/company/staff/alena-veselenkaya/": {
+    "title": "Виктория Теплова",
+    "file": "company/staff/alena-veselenkaya/index.html"
+  },
+  "/company/staff/anna-filatova/": {
+    "title": "Анна Филатова",
+    "file": "company/staff/anna-filatova/index.html"
+  },
+  "/company/staff/evgeniy-miroshenko/": {
+    "title": "Евгений Мирошенко",
+    "file": "company/staff/evgeniy-miroshenko/index.html"
+  },
+  "/company/staff/maksim-turskiy/": {
+    "title": "Максим Турский",
+    "file": "company/staff/maksim-turskiy/index.html"
+  },
+  "/company/staff/marina-kichigina/": {
+    "title": "Марина Кичигина",
+    "file": "company/staff/marina-kichigina/index.html"
+  },
+  "/company/staff/milana-kapriz/": {
+    "title": "Милана Каприз",
+    "file": "company/staff/milana-kapriz/index.html"
+  },
+  "/company/staff/nikolay-cheshin/": {
+    "title": "Николай Чешин",
+    "file": "company/staff/nikolay-cheshin/index.html"
+  },
+  "/company/staff/olga-kireeva/": {
+    "title": "Ольга Киреева",
+    "file": "company/staff/olga-kireeva/index.html"
+  },
+  "/company/staff/tatyana-lyubimova/": {
+    "title": "Татьяна Любимова",
+    "file": "company/staff/tatyana-lyubimova/index.html"
+  },
+  "/company/staff/tatyana-svetlennkaya/": {
+    "title": "Дарья Добрая",
+    "file": "company/staff/tatyana-svetlennkaya/index.html"
+  },
+  "/company/vacancy/": {
+    "title": "Вакансии",
+    "file": "company/vacancy/index.html"
+  },
+  "/company/vacancy/formovshchiki/": {
+    "title": "Формовщики",
+    "file": "company/vacancy/formovshchiki/index.html"
+  },
+  "/company/vacancy/galtovshchiki/": {
+    "title": "Галтовщики",
+    "file": "company/vacancy/galtovshchiki/index.html"
+  },
+  "/company/vacancy/kladovshchiki/": {
+    "title": "Кладовщики",
+    "file": "company/vacancy/kladovshchiki/index.html"
+  },
+  "/company/vacancy/liteyshchik-pomoshchnik-liteyshchika/": {
+    "title": "Литейщик / помощник литейщика",
+    "file": "company/vacancy/liteyshchik-pomoshchnik-liteyshchika/index.html"
+  },
+  "/company/vacancy/moyshchiki/": {
+    "title": "Мойщики",
+    "file": "company/vacancy/moyshchiki/index.html"
+  },
+  "/company/vacancy/obrabotchiki-suvenirnoy-produktsii/": {
+    "title": "Обработчики сувенирной продукции",
+    "file": "company/vacancy/obrabotchiki-suvenirnoy-produktsii/index.html"
+  },
+  "/company/vacancy/payshchitsy-voskovykh-yelok/": {
+    "title": "Пайщицы восковых ёлок",
+    "file": "company/vacancy/payshchitsy-voskovykh-yelok/index.html"
+  },
+  "/company/vacancy/tekhnologi-uchastkov-proizvodstva-voskovki-litya-montirovki/": {
+    "title": "Технологи участков производства",
+    "file": "company/vacancy/tekhnologi-uchastkov-proizvodstva-voskovki-litya-montirovki/index.html"
+  },
+  "/company/vacancy/uborshchitsa/": {
+    "title": "Уборщица",
+    "file": "company/vacancy/uborshchitsa/index.html"
+  },
+  "/company/vacancy/uchetchiki/": {
+    "title": "Учетчики",
+    "file": "company/vacancy/uchetchiki/index.html"
+  },
+  "/company/vacancy/upakovshchitsy/": {
+    "title": "Упаковщицы",
+    "file": "company/vacancy/upakovshchitsy/index.html"
+  },
+  "/company/vacancy/voskovshchitsy/": {
+    "title": "Восковщицы",
+    "file": "company/vacancy/voskovshchitsy/index.html"
+  },
+  "/contacts/": {
+    "title": "Контакты",
+    "file": "contacts/index.html"
+  },
+  "/contacts/stores/": {
+    "title": "Магазины",
+    "file": "contacts/stores/index.html"
+  },
+  "/contacts/stores/371/": {
+    "title": "г. Москва",
+    "file": "contacts/stores/371/index.html"
+  },
+  "/contacts/stores/372/": {
+    "title": "г. Москва",
+    "file": "contacts/stores/372/index.html"
+  },
+  "/contacts/stores/373/": {
+    "title": "г. Санкт-Петербург",
+    "file": "contacts/stores/373/index.html"
+  },
+  "/contacts/stores/374/": {
+    "title": "г. Екатеринбург",
+    "file": "contacts/stores/374/index.html"
+  },
+  "/contacts/stores/375/": {
+    "title": "г. Челябинск",
+    "file": "contacts/stores/375/index.html"
+  },
+  "/help/": {
+    "title": "Помощь",
+    "file": "help/index.html"
+  },
+  "/help/delivery/": {
+    "title": "Условия доставки",
+    "file": "help/delivery/index.html"
+  },
+  "/help/payment/": {
+    "title": "Условия оплаты",
+    "file": "help/payment/index.html"
+  },
+  "/help/warranty/": {
+    "title": "Гарантия на товар",
+    "file": "help/warranty/index.html"
+  },
+  "/include/licenses_detail.php/": {
+    "title": "Согласие на обработку персональных данных",
+    "file": "include/licenses_detail.php/index.html"
+  },
+  "/include/offer_detail.php/": {
+    "title": "Публичная оферта интернет-магазина <КОМПАНИЯ>",
+    "file": "include/offer_detail.php/index.html"
+  },
+  "/info/": {
+    "title": "Справочная информация",
+    "file": "info/index.html"
+  },
+  "/info/brands/": {
+    "title": "Партнеры",
+    "file": "info/brands/index.html"
+  },
+  "/info/buttons/": {
+    "title": "Кнопки",
+    "file": "info/buttons/index.html"
+  },
+  "/info/faq/": {
+    "title": "Вопросы и ответы",
+    "file": "info/faq/index.html"
+  },
+  "/info/icons/": {
+    "title": "Иконки",
+    "file": "info/icons/index.html"
+  },
+  "/info/more/": {
+    "title": "Возможности",
+    "file": "info/more/index.html"
+  },
+  "/info/more/1c/": {
+    "title": "Интеграция сайта с 1С — услуга компании Аспро",
+    "file": "info/more/1c/index.html"
+  },
+  "/info/more/agile/": {
+    "title": "Облачный таск-менеджер для проектной работы Аспро.Agile",
+    "file": "info/more/agile/index.html"
+  },
+  "/info/more/buttons/": {
+    "title": "Кнопки",
+    "file": "info/more/buttons/index.html"
+  },
+  "/info/more/cloud/": {
+    "title": "Аспро.Cloud - Управление проектами онлайн и CRM для малого и среднего бизнеса",
+    "file": "info/more/cloud/index.html"
+  },
+  "/info/more/corp/": {
+    "title": "Запуск корпоративного сайта под ключ на 1С-Битрикс",
+    "file": "info/more/corp/index.html"
+  },
+  "/info/more/dev/": {
+    "title": "Создание сайта на готовом решении Аспро",
+    "file": "info/more/dev/index.html"
+  },
+  "/info/more/ecommerce/": {
+    "title": "Запуск готового интернет-магазина на 1С-Битрикс",
+    "file": "info/more/ecommerce/index.html"
+  },
+  "/info/more/edu/": {
+    "title": "Сервис по обучению сотрудников Аспро.Обучение",
+    "file": "info/more/edu/index.html"
+  },
+  "/info/more/elements/": {
+    "title": "Элементы",
+    "file": "info/more/elements/index.html"
+  },
+  "/info/more/fin/": {
+    "title": "Система управления финансами Аспро.Финансы",
+    "file": "info/more/fin/index.html"
+  },
+  "/info/more/flowlu/": {
+    "title": "Flowlu - All-In-One Business Management Software",
+    "file": "info/more/flowlu/index.html"
+  },
+  "/info/more/flowlulink/": {
+    "title": "Flowlu.Link - mobile website builder",
+    "file": "info/more/flowlulink/index.html"
+  },
+  "/info/more/hr/": {
+    "title": "Система управления персоналом Аспро.HR",
+    "file": "info/more/hr/index.html"
+  },
+  "/info/more/icons/": {
+    "title": "Иконки",
+    "file": "info/more/icons/index.html"
+  },
+  "/info/more/kb/": {
+    "title": "Облачная база знаний Аспро.Знания",
+    "file": "info/more/kb/index.html"
+  },
+  "/info/more/licenses/": {
+    "title": "Запуск сайта на 1С-Битрикс и готовом решении Аспро",
+    "file": "info/more/licenses/index.html"
+  },
+  "/info/more/link/": {
+    "title": "Сервис для создания мультиссылки Аспро.Link",
+    "file": "info/more/link/index.html"
+  },
+  "/info/more/seo/": {
+    "title": "Базовая SEO-оптимизация — услуга компании Аспро",
+    "file": "info/more/seo/index.html"
+  },
+  "/info/more/sklad/": {
+    "title": "Сервис для складского учета Аспро.Склад",
+    "file": "info/more/sklad/index.html"
+  },
+  "/info/more/support/": {
+    "title": "Техническая поддержка сайтов на 1С-Битрикс и решениях Аспро",
+    "file": "info/more/support/index.html"
+  },
+  "/info/more/themes/": {
+    "title": "Запуск отраслевого сайта на решении Аспро и 1С-Битрикс",
+    "file": "info/more/themes/index.html"
+  },
+  "/info/more/typograpy/": {
+    "title": "Оформление",
+    "file": "info/more/typograpy/index.html"
+  },
+  "/info/typograpy/": {
+    "title": "Оформление",
+    "file": "info/typograpy/index.html"
+  },
+  "/landings/": {
+    "title": "Посадочные страницы",
+    "file": "landings/index.html"
+  },
+  "/landings/dushevye-kabiny-s-gidromassazhem/": {
+    "title": "Душевые кабины с гидромассажем",
+    "file": "landings/dushevye-kabiny-s-gidromassazhem/index.html"
+  },
+  "/landings/naruchnye-chasy-s-podsvetkoy/": {
+    "title": "Наручные часы с подсветкой",
+    "file": "landings/naruchnye-chasy-s-podsvetkoy/index.html"
+  },
+  "/landings/odezhda-dlya-zhenshchin-vesna-leto/": {
+    "title": "Одежда для женщин весна-лето",
+    "file": "landings/odezhda-dlya-zhenshchin-vesna-leto/index.html"
+  },
+  "/landings/rasprodazha-tovarov-dlya-sporta/": {
+    "title": "Распродажа товаров для спорта",
+    "file": "landings/rasprodazha-tovarov-dlya-sporta/index.html"
+  },
+  "/landings/top-10-bestsellerov-elektroniki/": {
+    "title": "Топ-10 бестселлеров электроники",
+    "file": "landings/top-10-bestsellerov-elektroniki/index.html"
+  },
+  "/optovym-pokupatelyam/": {
+    "title": "Оптовым покупателям",
+    "file": "optovym-pokupatelyam/index.html"
+  },
+  "/projects/": {
+    "title": "Проекты",
+    "file": "projects/index.html"
+  },
+  "/projects/klimaticheskaya-tekhnika/": {
+    "title": "Климатическая техника",
+    "file": "projects/klimaticheskaya-tekhnika/index.html"
+  },
+  "/projects/klimaticheskaya-tekhnika/postavka-i-ustanovka-brizerov-v-detskom-sadu/": {
+    "title": "Поставка и установка бризеров в детском саду",
+    "file": "projects/klimaticheskaya-tekhnika/postavka-i-ustanovka-brizerov-v-detskom-sadu/index.html"
+  },
+  "/projects/klimaticheskaya-tekhnika/postavka-i-ustanovka-konditsionerov-v-ofisnom-pomeshchenii/": {
+    "title": "Поставка и установка кондиционеров в офисном помещении",
+    "file": "projects/klimaticheskaya-tekhnika/postavka-i-ustanovka-konditsionerov-v-ofisnom-pomeshchenii/index.html"
+  },
+  "/projects/mebel/": {
+    "title": "Мебель",
+    "file": "projects/mebel/index.html"
+  },
+  "/projects/mebel/gostinaya-v-eko-stile/": {
+    "title": "Гостиная в эко-стиле",
+    "file": "projects/mebel/gostinaya-v-eko-stile/index.html"
+  },
+  "/projects/mebel/kukhnya-v-stile-modern/": {
+    "title": "Кухня в стиле модерн",
+    "file": "projects/mebel/kukhnya-v-stile-modern/index.html"
+  },
+  "/projects/santekhnika/": {
+    "title": "Сантехника",
+    "file": "projects/santekhnika/index.html"
+  },
+  "/projects/santekhnika/obustroystvo-sanuzla-v-chastnom-kottedzhe/": {
+    "title": "Обустройство санузла в частном коттедже",
+    "file": "projects/santekhnika/obustroystvo-sanuzla-v-chastnom-kottedzhe/index.html"
+  },
+  "/projects/santekhnika/obustroystvo-sanuzla-v-firmennom-stile-restorana/": {
+    "title": "Обустройство санузла в фирменном стиле ресторана",
+    "file": "projects/santekhnika/obustroystvo-sanuzla-v-firmennom-stile-restorana/index.html"
+  },
+  "/sale/": {
+    "title": "Акции",
+    "file": "sale/index.html"
+  },
+  "/sale/rakovina_v_podarok_pri_pokupke_dushevoy_kabiny/": {
+    "title": "Раковина в подарок при покупке душевой кабины",
+    "file": "sale/rakovina_v_podarok_pri_pokupke_dushevoy_kabiny/index.html"
+  },
+  "/sale/skidka_10_na_lyuboy_tovar_po_kheshtegu/": {
+    "title": "Скидка 10% на любой товар по хэштегу",
+    "file": "sale/skidka_10_na_lyuboy_tovar_po_kheshtegu/index.html"
+  },
+  "/services/": {
+    "title": "Наши услуги",
+    "file": "services/index.html"
+  },
+  "/services/dopolnitelnye-uslugi/": {
+    "title": "Дополнительные услуги",
+    "file": "services/dopolnitelnye-uslugi/index.html"
+  },
+  "/services/dopolnitelnye-uslugi/kreditovanie/": {
+    "title": "Кредитование",
+    "file": "services/dopolnitelnye-uslugi/kreditovanie/index.html"
+  },
+  "/services/dopolnitelnye-uslugi/utilizatsiya-tekhniki/": {
+    "title": "Утилизация техники",
+    "file": "services/dopolnitelnye-uslugi/utilizatsiya-tekhniki/index.html"
+  },
+  "/articles/rss/": {
+    "title": "Блог",
+    "file": "articles/rss/index.html"
+  },
+  "/blog/stati/bulavochki-ruchnoy-raboty-iskusstvo-i-traditsii/": {
+    "title": "Булавочки ручной работы: искусство и традиции",
+    "file": "blog/stati/bulavochki-ruchnoy-raboty-iskusstvo-i-traditsii/index.html"
+  },
+  "/blog/stati/kollektsionnye-monety-i-breloki/": {
+    "title": "Коллекционные монеты и брелоки",
+    "file": "blog/stati/kollektsionnye-monety-i-breloki/index.html"
+  },
+  "/blog/stati/koshelkovye-oberegi-kak-vybrat-effektivnyy-koshelkovyy-obereg-/": {
+    "title": "Кошельковые обереги. Как выбрать эффективный кошельковый оберег",
+    "file": "blog/stati/koshelkovye-oberegi-kak-vybrat-effektivnyy-koshelkovyy-obereg-/index.html"
+  },
+  "/blog/stati/redkie-oberegi-i-amulety-magiya-v-vashem-dome/": {
+    "title": "Редкие обереги и амулеты: магия в вашем доме",
+    "file": "blog/stati/redkie-oberegi-i-amulety-magiya-v-vashem-dome/index.html"
+  },
+  "/blog/stati/suvenirnye-izdeliya-iz-dereva-krasota-i-dolgovechnost/": {
+    "title": "Сувенирные изделия из дерева: красота и долговечность",
+    "file": "blog/stati/suvenirnye-izdeliya-iz-dereva-krasota-i-dolgovechnost/index.html"
+  },
+  "/blog/stati/suvenirnye-litye-monety/": {
+    "title": "Сувенирные литые монеты",
+    "file": "blog/stati/suvenirnye-litye-monety/index.html"
+  },
+  "/company/news/rss/": {
+    "title": "Новости",
+    "file": "company/news/rss/index.html"
+  },
+  "/company/partners/rss/": {
+    "title": "Партнеры",
+    "file": "company/partners/rss/index.html"
+  },
+  "/sale/rss/": {
+    "title": "Акции",
+    "file": "sale/rss/index.html"
+  },
+  "/blog/rss/": {
+    "title": "Блог",
+    "file": "blog/rss/index.html"
+  },
+  "/blog/stati/chekanka-suvenirnykh-monet-unikalnyy-sposob-vyrazit-emotsii-i-sokhranit-vospominaniya/": {
+    "title": "Чеканка сувенирных монет: уникальный способ выразить эмоции и сохранить воспоминания",
+    "file": "blog/stati/chekanka-suvenirnykh-monet-unikalnyy-sposob-vyrazit-emotsii-i-sokhranit-vospominaniya/index.html"
+  },
+  "/blog/stati/kak-vybrat-brelok-v-podarok-prakticheskie-sovety/": {
+    "title": "Как выбрать брелок в подарок: практические советы",
+    "file": "blog/stati/kak-vybrat-brelok-v-podarok-prakticheskie-sovety/index.html"
+  },
+  "/blog/stati/krasnaya-nit-na-zapyaste/": {
+    "title": "Красная нить на запястье",
+    "file": "blog/stati/krasnaya-nit-na-zapyaste/index.html"
+  },
+  "/blog/stati/magicheskie-kolokolchiki-vidy-i-ikh-znacheniya/": {
+    "title": "Магические колокольчики: виды и их значения",
+    "file": "blog/stati/magicheskie-kolokolchiki-vidy-i-ikh-znacheniya/index.html"
+  },
+  "/blog/stati/runy-na-zakaz-drevnie-simvoly-s-sovremennym-smyslom/": {
+    "title": "Руны на заказ: древние символы с современным смыслом",
+    "file": "blog/stati/runy-na-zakaz-drevnie-simvoly-s-sovremennym-smyslom/index.html"
+  },
+  "/include/licenses_detail/": {
+    "title": "Согласие на обработку персональных данных",
+    "file": "include/licenses_detail/index.html"
+  },
+  "/include/politika-obrabotki-personalnykh-dannykh/": {
+    "title": "Политика обработки персональных данных",
+    "file": "include/politika-obrabotki-personalnykh-dannykh/index.html"
+  },
+  "/include/politika-ispolzovaniya-faylov-cookies/": {
+    "title": "Политика использования файлов cookies",
+    "file": "include/politika-ispolzovaniya-faylov-cookies/index.html"
+  },
+  "/services/lite-suvenirnykh-izdeliy/": {
+    "title": "Литьё сувениров",
+    "file": "services/lite-suvenirnykh-izdeliy/index.html"
+  },
+  "/services/izgotovlenie-po-eskizam/": {
+    "title": "Изготовление по вашим эскизам",
+    "file": "services/izgotovlenie-po-eskizam/index.html"
+  },
+  "/services/optovye-postavki/": {
+    "title": "Оптовые поставки",
+    "file": "services/optovye-postavki/index.html"
+  },
+  "/archive/services/": {
+    "title": "Дополнительные услуги — материалы исходного сайта",
+    "file": "archive/services/index.html"
+  },
+  "/basket/": {
+    "title": "Ваша коллекция",
+    "file": "basket/index.html"
+  },
+  "/favorites/": {
+    "title": "Близко к сердцу",
+    "file": "favorites/index.html"
+  },
+  "/compare/": {
+    "title": "Сравнение изделий",
+    "file": "compare/index.html"
+  },
+  "/404/": {
+    "title": "Страница не найдена",
+    "file": "404/index.html"
+  },
+  "/sitemap/": {
+    "title": "Карта сайта",
+    "file": "sitemap/index.html"
+  }
+}

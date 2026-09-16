@@ -1,0 +1,9 @@
+{
+  "checked": 838,
+  "method": "HEAD with response closed",
+  "errors": [],
+  "unknown_route": {
+    "status": 404,
+    "branded": true
+  }
+}
