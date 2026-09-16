@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+.sites-runtime/
+source/crawl/
+source/content.json
+source/prepared.json
+source/content.json.gz
+source/prepared.json.gz
